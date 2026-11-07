@@ -1,0 +1,1005 @@
+{
+  "title": "小测1",
+  "author": [
+    "原资料贡献者, 题库整理者"
+  ],
+  "description": "",
+  "mcqs": {
+    "description": "",
+    "questions": [
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Measures of central tendency are ( )"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "inferential statistics that identify the best single value for representing a set of data.",
+            "correct": false,
+            "option_id": "0f08e55e-4699-4c51-8ee3-78d6349de4c5"
+          },
+          {
+            "type": "text",
+            "content": "Inferential statistics that identify the spread of the scores in a data set.",
+            "correct": false,
+            "option_id": "edc0f84b-3591-4929-a6f3-c6091158f4fb"
+          },
+          {
+            "type": "text",
+            "content": "Descriptive statistics that identify the best single value for representing a set of data.",
+            "correct": true,
+            "option_id": "1c66302b-b450-45b8-9261-660a900703d2"
+          },
+          {
+            "type": "text",
+            "content": "Descriptive statistics that identify the spread of the scores in a data set.",
+            "correct": false,
+            "option_id": "23ba36ab-bf7c-4157-9351-dff9066fba17"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "集中趋势属于描述统计, 用一个代表性位置值概括一组数据; 离散程度属于变异指标"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "六、选择题（共 24 分） / 第 1 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 贡献者：朱晓彤、于凯博（资料提供）。 资料性质：2026-2027 学年秋学期（24级）小测原始试题照片。  来源记录：MSL2-INBOX-20261003。"
+          }
+        ],
+        "question_id": "83704d75-7b4b-432b-9f39-dd8bc380c2cc"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Given the following data set, what is the value of the median? [2, 3, 5, 6, 2, 1, 3, 2, 5, 7] ( )"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "2",
+            "correct": false,
+            "option_id": "5e2da230-ad40-44b6-8c49-5ff431538f2d"
+          },
+          {
+            "type": "text",
+            "content": "3",
+            "correct": true,
+            "option_id": "75d3f798-b2bb-4c35-87d9-046e2b52692f"
+          },
+          {
+            "type": "text",
+            "content": "3.5",
+            "correct": false,
+            "option_id": "888816fe-993e-4b9f-83bb-ade470355178"
+          },
+          {
+            "type": "text",
+            "content": "10",
+            "correct": false,
+            "option_id": "9389dd6b-3ff1-45fb-9535-cb12a42c4903"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "排序为1,2,2,2,3,3,5,5,6,7, n=10, 中位数=(第5项3+第6项3)/2=3"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "六、选择题（共 24 分） / 第 2 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 贡献者：朱晓彤、于凯博（资料提供）。 资料性质：2026-2027 学年秋学期（24级）小测原始试题照片。  来源记录：MSL2-INBOX-20261003。"
+          }
+        ],
+        "question_id": "80363406-4156-49ee-a6bd-d817be2ef120"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Which of the following provides a measure of central location for the random variable of blood type? ( )"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "standard deviation",
+            "correct": false,
+            "option_id": "dac28a51-7911-4ad4-b431-c1227f92630e"
+          },
+          {
+            "type": "text",
+            "content": "mode",
+            "correct": true,
+            "option_id": "40c3adf7-1f88-4afe-8315-f8abb29d41ac"
+          },
+          {
+            "type": "text",
+            "content": "variance",
+            "correct": false,
+            "option_id": "72885a7b-a1d3-46f2-9e3f-9ac40ef1491b"
+          },
+          {
+            "type": "text",
+            "content": "mean",
+            "correct": false,
+            "option_id": "bf786bd2-ae55-4bb9-9a30-0f7703eaa096"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "血型是无序分类变量, 以出现最多的类别即众数描述典型类别, 均值和标准差无意义"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "六、选择题（共 24 分） / 第 3 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 贡献者：朱晓彤、于凯博（资料提供）。 资料性质：2026-2027 学年秋学期（24级）小测原始试题照片。  来源记录：MSL2-INBOX-20261003。"
+          }
+        ],
+        "question_id": "469e9159-47af-45ee-95ef-859d3ea1438a"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Which of the following is NOT a characteristic of the mean? ( )"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "It is best used with categorical data.",
+            "correct": true,
+            "option_id": "e1757ce9-3e44-4be6-9d0b-e8337c5e8d5e"
+          },
+          {
+            "type": "text",
+            "content": "It is unique for a specific dataset.",
+            "correct": false,
+            "option_id": "990eb312-0e2a-4c65-9d00-a75d7391e849"
+          },
+          {
+            "type": "text",
+            "content": "The sum of the deviations about the mean is 0.",
+            "correct": false,
+            "option_id": "84412525-9e49-4397-b84c-c8a6933ccbd2"
+          },
+          {
+            "type": "text",
+            "content": "It is affected by extreme scores.",
+            "correct": false,
+            "option_id": "79d1d2b8-b0ca-4add-b737-79942bbb44cf"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "均值用于合适的定量变量, 不是最适用于类别数据. 对确定的数据集其值唯一, 离均差和为0, 且受极端值影响"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "六、选择题（共 24 分） / 第 4 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 贡献者：朱晓彤、于凯博（资料提供）。 资料性质：2026-2027 学年秋学期（24级）小测原始试题照片。  来源记录：MSL2-INBOX-20261003。"
+          }
+        ],
+        "question_id": "f80cecc5-18a8-44dc-9121-5cd0690ca29b"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "The median is ( )"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "The best representation for every set of data.",
+            "correct": false,
+            "option_id": "ff5247ff-116a-40f3-80e7-1101b9baeb1e"
+          },
+          {
+            "type": "text",
+            "content": "The value that divides a dataset into two equal halves when the data is arranged in ascending or descending order.",
+            "correct": true,
+            "option_id": "51249ee9-71e1-423d-a974-8990b6be3964"
+          },
+          {
+            "type": "text",
+            "content": "The most frequently occurring score.",
+            "correct": false,
+            "option_id": "1890acb4-3f4e-4130-a591-8c01e84afe8b"
+          },
+          {
+            "type": "text",
+            "content": "The statistical or arithmetic average.",
+            "correct": false,
+            "option_id": "e4acd93d-0993-4151-8c0d-127c07da5064"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "数据有序排列后, 中位数位于中间位置, 将数据分为两半; 偶数个观测时取中间两个值的平均"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "六、选择题（共 24 分） / 第 5 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 贡献者：朱晓彤、于凯博（资料提供）。 资料性质：2026-2027 学年秋学期（24级）小测原始试题照片。  来源记录：MSL2-INBOX-20261003。"
+          }
+        ],
+        "question_id": "cfbfb33f-3ce2-4532-a5aa-5c32110b579d"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Which of the following is true regarding factors affecting variability? ( )"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "The independent variable should not affect variability.",
+            "correct": false,
+            "option_id": "095e9ae7-31a9-4f2b-9aab-94c933593351"
+          },
+          {
+            "type": "text",
+            "content": "Random sampling results in distributions with large amounts of variability.",
+            "correct": false,
+            "option_id": "9eacc23d-6b4f-4e0b-996a-e7185e9c33ff"
+          },
+          {
+            "type": "text",
+            "content": "Greater variability is found in smaller samples.",
+            "correct": false,
+            "option_id": "c562ec67-f3b7-42e5-a8f7-daed3a3250bd"
+          },
+          {
+            "type": "text",
+            "content": "An insensitive dependent measure will produce a lot of variability.",
+            "correct": false,
+            "option_id": "e8c277ea-3182-4c7c-9625-5a693478f200"
+          }
+        ],
+        "answer_status": "unavailable",
+        "selection_mode": "single",
+        "explanation": [
+          {
+            "type": "text",
+            "content": "待确认: 题目未说明variability指样本内离散程度还是统计量的抽样变异\n若指样本均值的抽样变异, SE=σ/√n, 小样本SE更大, C可作为此特定含义下的答案\n若指原始观测值的离散程度, 小样本并不必然具有更大方差, 因而C并非一般事实. A中的自变量可能影响变异, B中随机抽样本身不保证“大量”变异, D中不敏感测量也不必产生更大变异\n无法从现有题干确定唯一正确项, 不自动判分"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "六、选择题（共 24 分） / 第 6 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 贡献者：朱晓彤、于凯博（资料提供）。 资料性质：2026-2027 学年秋学期（24级）小测原始试题照片。  来源记录：MSL2-INBOX-20261003。"
+          }
+        ],
+        "question_id": "535eb8cd-d7fc-432f-9e54-9658859e6bf8"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Use the following data set to answer the next three questions."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Value",
+              "Frequency"
+            ],
+            "rows": [
+              [
+                "9",
+                "8"
+              ],
+              [
+                "8",
+                "12"
+              ],
+              [
+                "6",
+                "2"
+              ],
+              [
+                "5",
+                "4"
+              ],
+              [
+                "4",
+                "3"
+              ],
+              [
+                "3",
+                "7"
+              ],
+              [
+                "2",
+                "3"
+              ],
+              [
+                "1",
+                "4"
+              ]
+            ],
+            "align": [
+              "left",
+              "left"
+            ]
+          },
+          {
+            "type": "text",
+            "content": "What is the value of the mean? ( )"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "4.75",
+            "correct": false,
+            "option_id": "5ebebb3c-1982-463c-9058-6c2b5002d807"
+          },
+          {
+            "type": "text",
+            "content": "6.34",
+            "correct": false,
+            "option_id": "1792bb66-9185-4f9b-8339-38cb21450b11"
+          },
+          {
+            "type": "text",
+            "content": "5.65",
+            "correct": true,
+            "option_id": "03a62e01-b2a3-4278-bc1c-195e81c4a8ce"
+          },
+          {
+            "type": "text",
+            "content": "7",
+            "correct": false,
+            "option_id": "cf0444b5-cb5e-4ffc-ac47-4102f0b0eba7"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "n=8+12+2+4+3+7+3+4=43, Σxf=243, 加权均值=243/43≈5.65116, 选5.65"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "六、选择题（共 24 分） / 第 7(1) 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 贡献者：朱晓彤、于凯博（资料提供）。 资料性质：2026-2027 学年秋学期（24级）小测原始试题照片。  来源记录：MSL2-INBOX-20261003。"
+          }
+        ],
+        "question_id": "c8c27958-84d9-4f54-a412-519318aaddeb"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Use the following data set to answer the next three questions."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Value",
+              "Frequency"
+            ],
+            "rows": [
+              [
+                "9",
+                "8"
+              ],
+              [
+                "8",
+                "12"
+              ],
+              [
+                "6",
+                "2"
+              ],
+              [
+                "5",
+                "4"
+              ],
+              [
+                "4",
+                "3"
+              ],
+              [
+                "3",
+                "7"
+              ],
+              [
+                "2",
+                "3"
+              ],
+              [
+                "1",
+                "4"
+              ]
+            ],
+            "align": [
+              "left",
+              "left"
+            ]
+          },
+          {
+            "type": "text",
+            "content": "What is the median? ( )"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "4.75",
+            "correct": false,
+            "option_id": "85ae1efe-5afa-4dfa-b7c1-a5324e43a8b1"
+          },
+          {
+            "type": "text",
+            "content": "6.34",
+            "correct": false,
+            "option_id": "47fac4ff-07d6-4dae-a4bc-92378acd8381"
+          },
+          {
+            "type": "text",
+            "content": "6",
+            "correct": true,
+            "option_id": "f8362570-0deb-4c69-9a53-41bad6f324d8"
+          },
+          {
+            "type": "text",
+            "content": "7",
+            "correct": false,
+            "option_id": "87b445cd-4b85-408a-9c4f-6b44395dd619"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "n=43, 中位数为第22个观测. 按值从小到大, 1—5的累计频数21, 值6的累计频数23, 因此第22个观测为6"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "六、选择题（共 24 分） / 第 7(2) 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 贡献者：朱晓彤、于凯博（资料提供）。 资料性质：2026-2027 学年秋学期（24级）小测原始试题照片。  来源记录：MSL2-INBOX-20261003。"
+          }
+        ],
+        "question_id": "d5bd24a7-ca50-41e4-ba76-dc2144f15714"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Use the following data set to answer the next three questions."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Value",
+              "Frequency"
+            ],
+            "rows": [
+              [
+                "9",
+                "8"
+              ],
+              [
+                "8",
+                "12"
+              ],
+              [
+                "6",
+                "2"
+              ],
+              [
+                "5",
+                "4"
+              ],
+              [
+                "4",
+                "3"
+              ],
+              [
+                "3",
+                "7"
+              ],
+              [
+                "2",
+                "3"
+              ],
+              [
+                "1",
+                "4"
+              ]
+            ],
+            "align": [
+              "left",
+              "left"
+            ]
+          },
+          {
+            "type": "text",
+            "content": "How would you describe this distribution? ( )"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "approximately normal",
+            "correct": false,
+            "option_id": "5bc94649-cc0d-440d-91e3-82d54817b311"
+          },
+          {
+            "type": "text",
+            "content": "positively skewed",
+            "correct": false,
+            "option_id": "d9be9e08-3236-43a5-abec-1226df5eda82"
+          },
+          {
+            "type": "text",
+            "content": "negatively skewed",
+            "correct": true,
+            "option_id": "ef19b9b3-bfc7-4bd6-9fec-ef9f9a920751"
+          },
+          {
+            "type": "text",
+            "content": "rectangular",
+            "correct": false,
+            "option_id": "98dd65a6-299e-49d7-9911-9f35c1d48a98"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "观测较集中在8和9, 向较小数值延伸出左尾, 为负偏 / 左偏分布; 均值≈5.65, 中位数6, 众数8, 与此方向一致"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "六、选择题（共 24 分） / 第 7(3) 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 贡献者：朱晓彤、于凯博（资料提供）。 资料性质：2026-2027 学年秋学期（24级）小测原始试题照片。  来源记录：MSL2-INBOX-20261003。"
+          }
+        ],
+        "question_id": "f606b7d2-18e2-4c49-8198-875f680fc806"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "The median is a measure of ( )"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "relative dispersion",
+            "correct": false,
+            "option_id": "258f9fec-330e-4754-858c-413ed7bcce4b"
+          },
+          {
+            "type": "text",
+            "content": "absolute dispersion",
+            "correct": false,
+            "option_id": "045dc052-eed9-4ebb-a3e2-e9cf22b0a1ed"
+          },
+          {
+            "type": "text",
+            "content": "central location",
+            "correct": true,
+            "option_id": "2df98d99-8c6a-4e4e-bf7c-90f21f97e5a4"
+          },
+          {
+            "type": "text",
+            "content": "relative location",
+            "correct": false,
+            "option_id": "f1b1e152-4041-4e3f-9981-54fa81c92f20"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "中位数是集中位置 / central location 的指标"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "六、选择题（共 24 分） / 第 8 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 贡献者：朱晓彤、于凯博（资料提供）。 资料性质：2026-2027 学年秋学期（24级）小测原始试题照片。  来源记录：MSL2-INBOX-20261003。"
+          }
+        ],
+        "question_id": "1f45d785-6a40-4cb8-a6aa-fcf2cf0a8dd3"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "The difference between the largest and the smallest data values is the ( )"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "variance",
+            "correct": false,
+            "option_id": "fcde3875-945c-41db-985c-aaf4bf07eb28"
+          },
+          {
+            "type": "text",
+            "content": "interquartile range",
+            "correct": false,
+            "option_id": "e906173e-cf4b-4c65-85dd-e55116295bfd"
+          },
+          {
+            "type": "text",
+            "content": "range",
+            "correct": true,
+            "option_id": "07853881-4105-4a6f-abd8-cac89717f068"
+          },
+          {
+            "type": "text",
+            "content": "coefficient of variation",
+            "correct": false,
+            "option_id": "c4a4ce72-6d3b-4231-a9b5-ca02b8d67450"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "极差 / range = 最大值-最小值"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "六、选择题（共 24 分） / 第 9 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 贡献者：朱晓彤、于凯博（资料提供）。 资料性质：2026-2027 学年秋学期（24级）小测原始试题照片。  来源记录：MSL2-INBOX-20261003。"
+          }
+        ],
+        "question_id": "c990c4f4-9dcf-4aec-8202-6f6406ab3945"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Which of the following provides a measure of central location for categorical data? ( )"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "standard deviation",
+            "correct": false,
+            "option_id": "39ad1b5b-1029-4d6c-b023-ee1ff8e0133c"
+          },
+          {
+            "type": "text",
+            "content": "mean",
+            "correct": false,
+            "option_id": "8009ff17-2e94-4fc6-a54a-e0ce79e18580"
+          },
+          {
+            "type": "text",
+            "content": "mode",
+            "correct": true,
+            "option_id": "06f20ff7-4221-4579-b78f-04a02eb45dd2"
+          },
+          {
+            "type": "text",
+            "content": "median",
+            "correct": false,
+            "option_id": "4c011cd0-2182-4399-b995-617bd4702e21"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "名义分类数据可用众数表示最常见类别; 中位数需具有顺序, 均值需有可解释的数值尺度"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "六、选择题（共 24 分） / 第 10 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 贡献者：朱晓彤、于凯博（资料提供）。 资料性质：2026-2027 学年秋学期（24级）小测原始试题照片。  来源记录：MSL2-INBOX-20261003。"
+          }
+        ],
+        "question_id": "e68fec5d-f644-4c67-b0bb-589968012777"
+      }
+    ]
+  },
+  "problems": {
+    "description": "",
+    "questions": [
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Here's where you have to really think about how you can best give a representative age (or ages) for the swimming class. Please see the following table:"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Age",
+              "1",
+              "2",
+              "3",
+              "31",
+              "32",
+              "33"
+            ],
+            "rows": [
+              [
+                "Frequency",
+                "3",
+                "4",
+                "2",
+                "2",
+                "4",
+                "3"
+              ]
+            ],
+            "align": [
+              "left",
+              "left",
+              "left",
+              "left",
+              "left",
+              "left",
+              "left"
+            ]
+          },
+          {
+            "type": "text",
+            "content": "1. \n(3 + 3 points) Why do you think the mean and median both failed for this data? Why are they misleading?\n\n\n2. \n(3 + 3 points) If you had to pick one age to represent this class, what would it be? Why?\n\n\n3. \n(3 + 3 + 3 points) What if you could pick two ages instead? Which two ages would you pick, and why?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "1. 总人数18, 总年龄306, 均值=17岁; 排序后第9个为3岁, 第10个为31岁, 中位数=(3+31)/2=17岁. 两者都落在无人所在的3—31岁间隔, 掩盖儿童与成人两个群体\n2. 若必须只取一个年龄, 可取众数2岁或32岁, 两者频数同为4, 没有数据支持唯一选择, 且任何一个都不能代表整班两群体\n3. 取2岁和32岁分别代表儿童和成人, 两者为各自群体中出现最多的年龄, 也都是各组中位数"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "一、集中趋势（共 21 分）",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 贡献者：朱晓彤、于凯博（资料提供）。 资料性质：2026-2027 学年秋学期（24级）小测原始试题照片。  来源记录：MSL2-INBOX-20261003。"
+          }
+        ],
+        "question_id": "2d79de33-efb0-4883-b286-88728918dce2"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Find the mode for the following sets of data. (5 points × 3)"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Values",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6",
+              "7",
+              "8"
+            ],
+            "rows": [
+              [
+                "Frequency",
+                "4",
+                "6",
+                "4",
+                "4",
+                "3",
+                "2",
+                "1",
+                "1"
+              ]
+            ],
+            "align": [
+              "left",
+              "left",
+              "left",
+              "left",
+              "left",
+              "left",
+              "left",
+              "left",
+              "left"
+            ]
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Category",
+              "Blue",
+              "Red",
+              "Green",
+              "Pink",
+              "Yellow"
+            ],
+            "rows": [
+              [
+                "Frequency",
+                "4",
+                "5",
+                "8",
+                "1",
+                "3"
+              ]
+            ],
+            "align": [
+              "left",
+              "left",
+              "left",
+              "left",
+              "left",
+              "left"
+            ]
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Values",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5"
+            ],
+            "rows": [
+              [
+                "Frequency",
+                "2",
+                "3",
+                "3",
+                "3",
+                "3"
+              ]
+            ],
+            "align": [
+              "left",
+              "left",
+              "left",
+              "left",
+              "left",
+              "left"
+            ]
+          },
+          {
+            "type": "text",
+            "content": "1. \n(5 points) When do you think the mode is most useful?\n\n\n2. \n(5 points) When is the mode least useful?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "三组众数依次为: 2; Green; 2,3,4,5并列为众数\n众数最适用于名义分类数据, 或需报告最常见类别/值时\n数据很少重复, 所有频数近乎相同, 或存在多个并列众数时, 众数作为单一代表值作用较弱; 连续数据的样本众数还可能依赖分组"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "二、众数（共 25 分）",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 贡献者：朱晓彤、于凯博（资料提供）。 资料性质：2026-2027 学年秋学期（24级）小测原始试题照片。  来源记录：MSL2-INBOX-20261003。"
+          }
+        ],
+        "question_id": "ad4d0c43-4106-47ff-8933-2e6226b82189"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Suppose a new drug A can help prolong the survival time of 20 days for every colorectal cancer patient. Drug B increases survival time by 10%. The mean survival time is 100 days, the median is 60 days, and the mode is 90 days.\n\n\n1. \n(3 points × 3) What happens to the mean, median, and mode if every patient takes drug A?\n\n\n2. \n(3 points × 3) What happens to the mean, median, and mode if every patient takes drug B instead?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "1. 药A对应Y=X+20, 均值120天, 中位数80天, 众数110天\n2. 药B对应Y=1.1X, 均值110天, 中位数66天, 众数99天\n对所有个体使用同一个正线性变换时, 三种位置指标均作相同变换"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "三、数据变换（共 18 分）",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 贡献者：朱晓彤、于凯博（资料提供）。 资料性质：2026-2027 学年秋学期（24级）小测原始试题照片。  来源记录：MSL2-INBOX-20261003。"
+          }
+        ],
+        "question_id": "0b6ef176-3447-4408-bb9f-455c749eb76a"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "A teacher records the following test scores (out of 100) for her class of 20 students:\n\nScores: 45, 52, 71, 67, 61, 74, 76, 78, 79, 82, 83, 85, 86, 87, 88, 89, 91, 92, 94, 98\n\n(5 points) Calculate the 25th percentile (first quartile Q1)."
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "先排序: 45,52,61,67,71,74,76,78,79,82,83,85,86,87,88,89,91,92,94,98\n算法待确认: 若按位置(n+1)p, h=5.25, Q1=71+0.25(74-71)=71.75; 若按下半组中位数/整数np取相邻平均, Q1=(71+74)/2=72.5; R默认type=7用h=1+(n-1)p=5.75, Q1=73.25; nearest-rank为第5个数71\n原题未指定百分位算法, 应使用课程讲义规定, 不将其中任一值冒充唯一答案"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "四、百分位数（共 5 分）",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 贡献者：朱晓彤、于凯博（资料提供）。 资料性质：2026-2027 学年秋学期（24级）小测原始试题照片。  来源记录：MSL2-INBOX-20261003。"
+          }
+        ],
+        "question_id": "faf4578e-b7bb-4fb1-af78-c2cf43cf6bdf"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "A sample of 5 individuals with the following weights (in kg):\n\nWeights: 45, 52, 61, 67, 75\n\n(7 points) Calculate the sample standard deviation."
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "x̄=(45+52+61+67+75)/5=60 kg\nΣ(xi-x̄)²=225+64+1+49+225=564 kg²\n样本方差s²=564/(5-1)=141 kg², 样本标准差s=√141≈11.8743 kg"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "五、样本标准差（共 7 分）",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 贡献者：朱晓彤、于凯博（资料提供）。 资料性质：2026-2027 学年秋学期（24级）小测原始试题照片。  来源记录：MSL2-INBOX-20261003。"
+          }
+        ],
+        "question_id": "83479606-7600-42ed-9d6f-2c1b738ced7e"
+      }
+    ]
+  }
+}

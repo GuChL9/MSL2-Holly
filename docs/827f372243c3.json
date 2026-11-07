@@ -1,0 +1,356 @@
+{
+  "title": "小测3",
+  "author": [
+    "原资料贡献者, 题库整理者"
+  ],
+  "description": "",
+  "problems": {
+    "description": "",
+    "questions": [
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "An experiment is designed to test the potency of a drug on 20 rats. Previous animal studies have shown that a 10-mg dose of the drug is lethal 5% of the time within the first 4 hours; of the animals alive at 4 hours, 10% will die in the next 4 hours. What is the probability that 3 or more rats will die in the first 4 hours?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "假设各只大鼠死亡事件相互独立且风险相同, $X\\sim B(20,0.05)$, $P(X\\ge3)=1-\\sum_{k=0}^{2}\\binom{20}{k}(0.05)^k(0.95)^{20-k}=0.0754837$, 约 7.55%"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "只计算最初 4 小时, 因而使用单只死亡概率 0.05; 二项模型需要个体间独立性"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Yangshu - 2026-2027秋小测卷 3",
+            "locator": "flashcards 第 1 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2026-2027%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 1(1) 题 (原卷编号)",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "d9a106e8-f140-458d-bf26-0e9ead5ed922"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "An experiment is designed to test the potency of a drug on 20 rats. Previous animal studies have shown that a 10-mg dose of the drug is lethal 5% of the time within the first 4 hours; of the animals alive at 4 hours, 10% will die in the next 4 hours. Suppose 2 rats die in the first 4 hours. What is the probability that 2 or fewer rats will die in the next 4 hours?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "已知前 4 小时死亡 2 只, 后续仍存活 18 只. 在存活者后 4 小时死亡相互独立且概率为 0.10 的模型下, $X\\sim B(18,0.10)$, $P(X\\le2)=\\sum_{k=0}^{2}\\binom{18}{k}(0.10)^k(0.90)^{18-k}=0.733796$, 约 73.38%"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "第二阶段样本数为 18, 题给 10% 已是以存活至 4 小时为条件的概率, 无需再乘 0.95"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Yangshu - 2026-2027秋小测卷 3",
+            "locator": "flashcards 第 2 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2026-2027%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 1(2) 题 (原卷编号)",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "708b02a2-5dd6-4859-92ef-0504b74c850a"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "An experiment is designed to test the potency of a drug on 20 rats. Previous animal studies have shown that a 10-mg dose of the drug is lethal 5% of the time within the first 4 hours; of the animals alive at 4 hours, 10% will die in the next 4 hours. What is the probability that 0 rats will die in the 8-hour period?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "单只大鼠 8 小时存活概率为 $0.95\\times0.90=0.855$, 假设不同大鼠相互独立, $P(X=0)=0.855^{20}=0.0435835$, 约 4.36%"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "先用条件概率乘法得到单只全程存活率, 再对 20 只独立大鼠相乘"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Yangshu - 2026-2027秋小测卷 3",
+            "locator": "flashcards 第 3 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2026-2027%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 1(3) 题 (原卷编号)",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "f85875de-f84b-4078-b3f2-3d6385e7b5eb"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "An experiment is designed to test the potency of a drug on 20 rats. Previous animal studies have shown that a 10-mg dose of the drug is lethal 5% of the time within the first 4 hours; of the animals alive at 4 hours, 10% will die in the next 4 hours. What is the probability that 1 rat will die in the 8-hour period?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "单只大鼠 8 小时死亡概率为 $1-0.855=0.145$, 假设不同大鼠相互独立, $X\\sim B(20,0.145)$, $P(X=1)=\\binom{20}{1}(0.145)(0.855)^{19}=0.147827$, 约 14.78%"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "第二阶段死亡率以第一阶段存活为条件, 所以全程死亡率为 $0.05+0.95(0.10)$"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Yangshu - 2026-2027秋小测卷 3",
+            "locator": "flashcards 第 4 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2026-2027%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 1(4) 题 (原卷编号)",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "05d55407-52f3-4e8a-b81d-8984649026f0"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "An important issue in assessing nuclear energy is whether excess disease risks exist in the communities surrounding nuclear-power plants. A study undertaken in the community surrounding Hanford, Washington, looked at the prevalence of selected congenital malformations in the counties surrounding the nuclear-test facility.\n\nSuppose 27 cases of Down's syndrome are found and only 19 are expected based on Birth Defects Monitoring Program prevalence estimates in the states of Washington, Idaho, and Oregon. Are there significant excess cases in the area around the nuclear-power plant?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "若无额外风险时病例数服从参数为 19 的泊松分布, 取 $H_0:\\lambda=19$, $H_1:\\lambda>19$, 单侧 $p=P_{19}(X\\ge27)=1-\\sum_{k=0}^{26}e^{-19}19^k/k!=0.048557$. 若预先规定 $\\alpha=0.05$, 可拒绝 $H_0$, 病例数高于该基准的证据刚达到 5% 水平"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "题干未指定显著性水平, 因而列出 p 值和以 5% 为条件的结论; 还假定预期数 19 可视为固定且泊松模型适用, 未计入基准估计误差, 结论不证明核设施导致疾病"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Yangshu - 2026-2027秋小测卷 3",
+            "locator": "flashcards 第 5 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2026-2027%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 3(1) 题 (原卷编号)",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "5707246e-60cb-4287-87eb-eca31bcaba9e"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Suppose 27 cases of Down's syndrome are found and only 19 are expected based on Birth Defects Monitoring Program prevalence estimates in the states of Washington, Idaho, and Oregon."
+          },
+          {
+            "type": "text",
+            "content": "An important issue in assessing nuclear energy is whether excess disease risks exist in the communities surrounding nuclear-power plants. A study undertaken in the community surrounding Hanford, Washington, looked at the prevalence of selected congenital malformations in the counties surrounding the nuclear-test facility.\n\nIf the distribution be approximated by a normal distribution, what's the probability of observing 27 cases?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "沿用上题无额外风险时 $\\lambda=19$, 以 $Y\\sim N(19,19)$ 近似. 按本题 observing 27 cases 的字面含义, 即恰好 27 例, 连续性校正为 $P(X=27)\\approx P(26.5<Y<27.5)=\\Phi(8.5/\\sqrt{19})-\\Phi(7.5/\\sqrt{19})=0.0170740$, 约 1.71%\n\n若本题实际承接上一问要求超额病例的单侧尾概率, 则 $P(X\\ge27)\\approx P(Y\\ge26.5)=0.0426601$, 约 4.27%; 不作连续性校正为 0.0332287. 所求事件是恰好 27 例还是至少 27 例, 待确认"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "连续正态变量取单个数值的概率为 0, 用正态近似离散计数的点概率时必须取宽度为 1 的区间; 题面未明确是否包含超过27例的情况, 两种理解的结果分别列出"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Yangshu - 2026-2027秋小测卷 3",
+            "locator": "flashcards 第 6 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2026-2027%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 3(2) 题 (原卷编号)",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "63093eb9-941b-4864-989c-5f2ca41a7caf"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "An important issue in assessing nuclear energy is whether excess disease risks exist in the communities surrounding nuclear-power plants. A study undertaken in the community surrounding Hanford, Washington, looked at the prevalence of selected congenital malformations in the counties surrounding the nuclear-test facility.\n\nSuppose 12 cases of cleft palate are observed, whereas only 7 are expected based on Birth Defects Monitoring Program estimates. What is the probability of observing exactly 12 cases of cleft palate if there is no excess risk of cleft palate in the study area?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "若无额外风险时 $X\\sim\\mathrm{Pois}(7)$, 恰好 12 例的概率为 $P(X=12)=e^{-7}7^{12}/12!=0.0263498$, 约 2.63%"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "题目明确 exactly 12, 使用点概率, 不能换成 $P(X\\ge12)$"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Yangshu - 2026-2027秋小测卷 3",
+            "locator": "flashcards 第 7 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2026-2027%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 3(3) 题 (原卷编号)",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "0593cb6b-6d65-4c66-a937-1354d5f4e5de"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Serum cholesterol is an important risk factor for coronary disease. We can show that serum cholesterol is approximately normally distributed, with mean = 219 mg/dL and standard deviation = 50 mg/dL. If the clinically desirable range for cholesterol is < 200 mg/dL, what proportion of people have clinically desirable levels of cholesterol?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "$X\\sim N(219,50^2)$, $P(X<200)=\\Phi((200-219)/50)=\\Phi(-0.38)=0.351973$, 约 35.20%"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "标准化时除以标准差 50, 此处只是按题设阈值计算比例"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Yangshu - 2026-2027秋小测卷 3",
+            "locator": "flashcards 第 8 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2026-2027%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 4(1) 题 (原卷编号)",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "9bad9d39-5d0b-4b37-928e-5e5aebfc1bfa"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Serum cholesterol is an important risk factor for coronary disease. We can show that serum cholesterol is approximately normally distributed, with mean = 219 mg/dL and standard deviation = 50 mg/dL. Some investigators believe that only cholesterol levels over 250 mg/dL indicate a high-enough risk for heart disease to warrant treatment. What proportion of the population does this group represent?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "$P(X>250)=1-\\Phi((250-219)/50)=1-\\Phi(0.62)=0.267629$, 约 26.76%"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "题目求高于 250 的上尾概率, 不是低于该阈值的累计概率"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Yangshu - 2026-2027秋小测卷 3",
+            "locator": "flashcards 第 9 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2026-2027%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 4(2) 题 (原卷编号)",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "8a8ae7ba-ca51-4654-b0c8-5e053c236e43"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Serum cholesterol is an important risk factor for coronary disease. We can show that serum cholesterol is approximately normally distributed, with mean = 219 mg/dL and standard deviation = 50 mg/dL. What proportion of the general population has borderline high-cholesterol levels—that is, > 200 but < 250 mg/dL?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "$P(200<X<250)=\\Phi(0.62)-\\Phi(-0.38)=0.380398$, 约 38.04%"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "两个阈值分别标准化为 -0.38 和 0.62, 区间概率用累计概率相减"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Yangshu - 2026-2027秋小测卷 3",
+            "locator": "flashcards 第 10 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2026-2027%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 4(3) 题 (原卷编号)",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "b4e6fbde-c567-4de2-9dda-882c727a2bc4"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1448 @@
+{
+  "title": "2025秋小测2",
+  "author": [
+    "原资料贡献者, 题库整理者"
+  ],
+  "description": "",
+  "mcqs": {
+    "description": "",
+    "questions": [
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Which of these numbers cannot be a probability?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "-0.5",
+            "correct": true,
+            "option_id": "c0ea0381-a687-4747-ad69-90391e2eddcf"
+          },
+          {
+            "type": "text",
+            "content": "0.999",
+            "correct": false,
+            "option_id": "b60e2a54-6f31-41d4-9667-ccd1bd57d4ce"
+          },
+          {
+            "type": "text",
+            "content": "0",
+            "correct": false,
+            "option_id": "393f9ded-3abb-493a-9eb3-45ad32a289a0"
+          },
+          {
+            "type": "text",
+            "content": "1",
+            "correct": false,
+            "option_id": "efef61d7-72ce-4f1e-98d5-9c564019f298"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "概率须位于闭区间 [0,1], 因此 -0.5 不可能是概率"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 1 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 1 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "a7af6d2c-8766-4776-825a-d5004fbec457"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "We screened the blood type in 200 peoples, the results are: 50 have type A blood, 60 have B blood type, 60 have O blood type and 30 have type AB blood. If a person from this group is selected at random, what is the probability that this person has O blood type?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.35",
+            "correct": false,
+            "option_id": "07f56aca-7cf8-480d-9085-869beaefe110"
+          },
+          {
+            "type": "text",
+            "content": "0.30",
+            "correct": true,
+            "option_id": "db180763-faa7-4c7b-a56b-4bacd6e1e079"
+          },
+          {
+            "type": "text",
+            "content": "0.34",
+            "correct": false,
+            "option_id": "5dc08004-3c4c-4880-943d-67944d1b9996"
+          },
+          {
+            "type": "text",
+            "content": "0.1",
+            "correct": false,
+            "option_id": "61581c4d-411f-42d1-b46c-922909fbb7fc"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "$P(O)=60/200=0.30$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 2 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 2 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "4bccf555-82c4-44fb-8b9e-c34d4582395e"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Which of the following random variables is discrete."
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Income",
+            "correct": false,
+            "option_id": "2d0ea196-abc2-487f-8b6e-2040ef3032a0"
+          },
+          {
+            "type": "text",
+            "content": "height",
+            "correct": false,
+            "option_id": "612aafaf-b316-4731-9403-0014191bbfea"
+          },
+          {
+            "type": "text",
+            "content": "The number of myopic eyes",
+            "correct": true,
+            "option_id": "b7046974-28e1-43f4-b0d9-26c3011269b5"
+          },
+          {
+            "type": "text",
+            "content": "Weight",
+            "correct": false,
+            "option_id": "0c097205-52f1-4b55-addb-3af75acc9c1c"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "近视眼的数量取非负整数, 为离散随机变量; 本题将收入按通常的连续测量近似处理"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 3 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 3 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "7590ff35-395b-4f30-832c-71471427aa86"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Which statement must be FALSE of the probability distribution?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "The sum of the probabilities is equal to 1",
+            "correct": false,
+            "option_id": "4395432c-3ac7-4837-9249-a4d42576eb3a"
+          },
+          {
+            "type": "text",
+            "content": "The probabilities are NOT greater than 1.",
+            "correct": false,
+            "option_id": "1b5a4e50-6279-424d-a753-8209b728701b"
+          },
+          {
+            "type": "text",
+            "content": "The sum of the probabilities is greater than 1 and the respective probabilities are between 0 and 1.",
+            "correct": true,
+            "option_id": "ca7f01ae-3f3d-4839-8232-9f816bcfe9ce"
+          },
+          {
+            "type": "text",
+            "content": "The probabilities are not less than 0.",
+            "correct": false,
+            "option_id": "6144c56f-95da-4f93-baa2-4a1537bc7e8a"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "完整的离散概率分布中, 各概率非负且总和为 1, 总和大于 1 的说法错误"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 4 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 4 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "1ca1e3a6-6242-46ef-840d-0e6abe1469a5"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "In a study of 1000 people, investigators observed who was bitten by a flea and who subsequently developed plague. 600 people were bitten by a flea. 400 out of 600 people developed plague. 400 people have never been bitten by a flea, 100 out of them developed plague. What's the relative risk of people with flea bitten developing plague?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "2",
+            "correct": false,
+            "option_id": "642b5bea-47e2-4717-80ad-4693b181cce4"
+          },
+          {
+            "type": "text",
+            "content": "2.67",
+            "correct": true,
+            "option_id": "f6ca9af2-9986-4e93-8ee5-ca2a99539b49"
+          },
+          {
+            "type": "text",
+            "content": "3",
+            "correct": false,
+            "option_id": "770c6d6e-c081-4f6d-a823-4814fd0dd5d9"
+          },
+          {
+            "type": "text",
+            "content": "4/3",
+            "correct": false,
+            "option_id": "b7c00a5a-5ac1-47e4-b2b5-2bcaec8e1ccc"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "$RR=(400/600)/(100/400)=8/3\\approx2.67$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 5 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 5 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "62e44b33-9e6e-4193-ab7b-08de2befc910"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Suppose the smoking habits of the parents are independent and the probability that the mother is a current smoker is 0.4, whereas the probability that the father is a current smoker is 0.5. what is the probability that both the father and mother are current smokers?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.2",
+            "correct": true,
+            "option_id": "1b14526c-e5cf-4b43-9037-3f58af3ebbd1"
+          },
+          {
+            "type": "text",
+            "content": "0.5",
+            "correct": false,
+            "option_id": "4c506213-5187-4946-b05b-de9ab2982fe9"
+          },
+          {
+            "type": "text",
+            "content": "0.4",
+            "correct": false,
+            "option_id": "52ec9419-1e66-41de-8bdb-714942746e97"
+          },
+          {
+            "type": "text",
+            "content": "0.9",
+            "correct": false,
+            "option_id": "72a41682-830f-4e13-9d80-2744b14fe1b9"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "由独立性, $P(M\\cap F)=P(M)P(F)=0.4\\times0.5=0.2$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 6 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 6 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "992189e1-35b1-4a25-8e9d-e193a7bd7898"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Suppose the smoking habits of the parents are independent and the probability that the mother is a current smoker is 0.4, whereas the probability that the father is a current smoker is 0.5. Consider the subgroup of families where the mother is not a current smoker, what is the probability that the father is a current smoker?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.2",
+            "correct": false,
+            "option_id": "27e99a96-5e72-4047-8958-d251c49fae3a"
+          },
+          {
+            "type": "text",
+            "content": "0.5",
+            "correct": true,
+            "option_id": "f2034e0a-0291-4f11-9e0d-5742b1be07da"
+          },
+          {
+            "type": "text",
+            "content": "0.4",
+            "correct": false,
+            "option_id": "553da8f3-d3ba-4bab-8b93-555487bd2873"
+          },
+          {
+            "type": "text",
+            "content": "0.9",
+            "correct": false,
+            "option_id": "4482b81a-6316-4858-97d4-ae279a40588b"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "由独立性, $P(F\\mid M^c)=P(F)=0.5$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 7 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 7 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "c0019740-8c3a-4ec6-9b68-c1d6e25921a2"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "An investigator wishes to study a particular environmental factor, namely, the relationship of cigarette-smoking habits in the parents to the presence or absence of asthma in their oldest child living in the household in the 5- to 9-year-old age range. Suppose that the investigator finds that: if both the mother and father are current smokers then the probability of their offspring having asthma is 0.15; if the mother is a current smoker and the father is not, then the probability of their offspring having asthma is 0.13; if the father is a current smoker and the mother is not, then the probability of their offspring having asthma is 0.05; if neither parent is a current smoker, then the probability of their offspring having asthma is 0.04; the probability that the father is a current smoker is 0.5; if the father is a current smoker then the probability that the mother is a current smoker is 0.6; if the father is NOT a current smoker then the probability that the mother is a current smoker is 0.2. What is the probability that the offspring will have asthma?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.37",
+            "correct": false,
+            "option_id": "203ff1a9-812e-49c2-b95e-aa71c4097c4f"
+          },
+          {
+            "type": "text",
+            "content": "0.755",
+            "correct": false,
+            "option_id": "0435898b-38ca-4394-a4b8-fc2796f1e574"
+          },
+          {
+            "type": "text",
+            "content": "0.084",
+            "correct": true,
+            "option_id": "ce4a4a47-5198-4efa-8892-eeca9ccdab35"
+          },
+          {
+            "type": "text",
+            "content": "0.639",
+            "correct": false,
+            "option_id": "9d443e78-4d25-4028-b622-d484e090aba0"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "父母吸烟状态 (均吸烟, 仅母, 仅父, 均不吸烟) 的概率依次为 0.3,0.1,0.2,0.4, 所以 $P(A)=0.3(0.15)+0.1(0.13)+0.2(0.05)+0.4(0.04)=0.084$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 8 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 8 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "2e94ad0b-21ff-4d21-b906-55a8fd5c4b7e"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "An investigator wishes to study a particular environmental factor, namely, the relationship of cigarette-smoking habits in the parents to the presence or absence of asthma in their oldest child living in the household in the 5- to 9-year-old age range. Suppose that the investigator finds that: if both the mother and father are current smokers then the probability of their offspring having asthma is 0.15; if the mother is a current smoker and the father is not, then the probability of their offspring having asthma is 0.13; if the father is a current smoker and the mother is not, then the probability of their offspring having asthma is 0.05; if neither parent is a current smoker, then the probability of their offspring having asthma is 0.04; the probability that the father is a current smoker is 0.5; if the father is a current smoker then the probability that the mother is a current smoker is 0.6; if the father is NOT a current smoker then the probability that the mother is a current smoker is 0.2. Suppose a child has asthma what is the probability that the father is a current smoker?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.495",
+            "correct": false,
+            "option_id": "99e6ff12-2f92-465e-98bc-6ca410bcadc4"
+          },
+          {
+            "type": "text",
+            "content": "0.655",
+            "correct": true,
+            "option_id": "5b0a56f4-2dae-4d50-bc06-a5cedfa011b0"
+          },
+          {
+            "type": "text",
+            "content": "0.690",
+            "correct": false,
+            "option_id": "c59217eb-03a1-404a-8a23-a0791d2c71f4"
+          },
+          {
+            "type": "text",
+            "content": "0.757",
+            "correct": false,
+            "option_id": "523791f7-c104-42b1-a76e-bb95927fc398"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "由全概率和贝叶斯公式, $P(F\\mid A)=[0.3(0.15)+0.2(0.05)]/0.084=0.6548\\approx0.655$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 9 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 9 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "de2bc85c-ee9f-4605-a10f-e4108deba943"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "An investigator wishes to study a particular environmental factor, namely, the relationship of cigarette-smoking habits in the parents to the presence or absence of asthma in their oldest child living in the household in the 5- to 9-year-old age range. Suppose that the investigator finds that: if both the mother and father are current smokers then the probability of their offspring having asthma is 0.15; if the mother is a current smoker and the father is not, then the probability of their offspring having asthma is 0.13; if the father is a current smoker and the mother is not, then the probability of their offspring having asthma is 0.05; if neither parent is a current smoker, then the probability of their offspring having asthma is 0.04; the probability that the father is a current smoker is 0.5; if the father is a current smoker then the probability that the mother is a current smoker is 0.6; if the father is NOT a current smoker then the probability that the mother is a current smoker is 0.2. Suppose a child has asthma what is the probability that the mother is a current smoker?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.495",
+            "correct": false,
+            "option_id": "dce1c7a4-df6d-475b-ac84-ae113cca22d6"
+          },
+          {
+            "type": "text",
+            "content": "0.690",
+            "correct": true,
+            "option_id": "8c02acd5-6b4c-43af-89c1-ac873d6d729e"
+          },
+          {
+            "type": "text",
+            "content": "0.757",
+            "correct": false,
+            "option_id": "d324c146-33ba-4f72-8546-9b75bb620659"
+          },
+          {
+            "type": "text",
+            "content": "0.758",
+            "correct": false,
+            "option_id": "cd363bc8-1fbe-4315-a696-f163ed6af05a"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "$P(M\\mid A)=[0.3(0.15)+0.1(0.13)]/0.084=0.6905\\approx0.690$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 10 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 10 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "28c491e4-9600-4441-baa2-2378ad2906c2"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "An investigator wishes to study a particular environmental factor, namely, the relationship of cigarette-smoking habits in the parents to the presence or absence of asthma in their oldest child living in the household in the 5- to 9-year-old age range. Suppose that the investigator finds that: if both the mother and father are current smokers then the probability of their offspring having asthma is 0.15; if the mother is a current smoker and the father is not, then the probability of their offspring having asthma is 0.13; if the father is a current smoker and the mother is not, then the probability of their offspring having asthma is 0.05; if neither parent is a current smoker, then the probability of their offspring having asthma is 0.04; the probability that the father is a current smoker is 0.5; if the father is a current smoker then the probability that the mother is a current smoker is 0.6; if the father is NOT a current smoker then the probability that the mother is a current smoker is 0.2. Suppose a child doesn't have asthma what is the probability that the father is a current smoker?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.373",
+            "correct": false,
+            "option_id": "1c806e70-0c89-41bd-bd09-115a23333034"
+          },
+          {
+            "type": "text",
+            "content": "0.757",
+            "correct": false,
+            "option_id": "753188af-a7c6-48a3-8138-e86249af69bd"
+          },
+          {
+            "type": "text",
+            "content": "0.486",
+            "correct": true,
+            "option_id": "5faa275a-c4be-4c3c-9591-6467fff6c189"
+          },
+          {
+            "type": "text",
+            "content": "0.445",
+            "correct": false,
+            "option_id": "98c1454f-bee1-4653-adb3-f9fda5be015b"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "$P(F\\mid A^c)=(0.5-0.055)/(1-0.084)=0.4858\\approx0.486$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 11 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 11 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "4bd1b1dc-bee5-47a5-9027-ae390b8ae04d"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "An investigator wishes to study a particular environmental factor, namely, the relationship of cigarette-smoking habits in the parents to the presence or absence of asthma in their oldest child living in the household in the 5- to 9-year-old age range. Suppose that the investigator finds that: if both the mother and father are current smokers then the probability of their offspring having asthma is 0.15; if the mother is a current smoker and the father is not, then the probability of their offspring having asthma is 0.13; if the father is a current smoker and the mother is not, then the probability of their offspring having asthma is 0.05; if neither parent is a current smoker, then the probability of their offspring having asthma is 0.04; the probability that the father is a current smoker is 0.5; if the father is a current smoker then the probability that the mother is a current smoker is 0.6; if the father is NOT a current smoker then the probability that the mother is a current smoker is 0.2. Suppose a child doesn't have asthma what is the probability that the mother is a current smoker?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.486",
+            "correct": false,
+            "option_id": "088a6991-98ad-46c8-a4bd-cd58fd3c38d9"
+          },
+          {
+            "type": "text",
+            "content": "0.373",
+            "correct": true,
+            "option_id": "e60e5270-0fc9-4da3-9059-3301c668d0ed"
+          },
+          {
+            "type": "text",
+            "content": "0.757",
+            "correct": false,
+            "option_id": "1e4d4dd7-9d0e-4791-afcc-5c12afbf5202"
+          },
+          {
+            "type": "text",
+            "content": "0.445",
+            "correct": false,
+            "option_id": "9ce164ab-fe6c-4fee-811a-cbd0e985b5ff"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "$P(M)=0.3+0.1=0.4$, $P(M\\mid A^c)=(0.4-0.058)/0.916=0.3734$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 12 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 12 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "a6b9edd1-c63f-47b5-a5bc-b1e552e97424"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "If A and B are independent, then ( )."
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "P(A∩B)=P(A)·P(B)",
+            "correct": true,
+            "option_id": "27272e06-929d-4c59-9285-e1c168003a7b"
+          },
+          {
+            "type": "text",
+            "content": "P(A∩B)=P(A)+P(B)",
+            "correct": false,
+            "option_id": "d29028fb-5ee2-4e1b-8d16-e8fd1962508e"
+          },
+          {
+            "type": "text",
+            "content": "P(A∩B)=P(A)-P(B)",
+            "correct": false,
+            "option_id": "ac8beb5b-b7ed-423e-93fa-0e0763664154"
+          },
+          {
+            "type": "text",
+            "content": "P(A∩B)=P(A)+P(B)-P(A)·P(B)",
+            "correct": false,
+            "option_id": "a9a33448-af23-434e-923f-e1b92ecc38aa"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "事件独立的定义为 $P(A\\cap B)=P(A)P(B)$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 13 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 13 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "a1f2889d-97db-45aa-9fea-4fe4f8c5a61d"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "False Negative is equal to"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Positive predictive value",
+            "correct": false,
+            "option_id": "9e799e42-181f-4ce2-8918-47601720c2eb"
+          },
+          {
+            "type": "text",
+            "content": "1 - specificity",
+            "correct": false,
+            "option_id": "942da77a-295d-4917-a8e4-73872b88af4f"
+          },
+          {
+            "type": "text",
+            "content": "1 - sensitivity",
+            "correct": true,
+            "option_id": "a2e27bb6-ac23-4f2b-afb5-0d0e4ded554d"
+          },
+          {
+            "type": "text",
+            "content": "Negative predictive value",
+            "correct": false,
+            "option_id": "fa79d87a-6218-4e13-9dd8-c4fb77be5cc0"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "此处 False Negative 按假阴性率理解, $P(T^-\\mid D)=1-P(T^+\\mid D)=1-\\mathrm{sensitivity}$; 若指假阴性人数, 则不能直接等于一个概率"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 14 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 14 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "bd3c1bcd-6a05-4238-a7b3-b186bf988858"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "The probability that the test will correctly diagnose a case is referring to ...?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Sensitivity",
+            "correct": true,
+            "option_id": "ed8b20d1-461d-43b9-8599-0fd9f29d5a2d"
+          },
+          {
+            "type": "text",
+            "content": "Specificity",
+            "correct": false,
+            "option_id": "1e28c34a-6263-4290-80d9-70499a919078"
+          },
+          {
+            "type": "text",
+            "content": "1 - sensitivity",
+            "correct": false,
+            "option_id": "722cee35-5208-4acd-a929-edf32ea88787"
+          },
+          {
+            "type": "text",
+            "content": "Negative predictive value",
+            "correct": false,
+            "option_id": "d13521c6-40fb-4c9d-ad67-bee67ca7bb8a"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "case 指患病者, 正确识别病例的概率为灵敏度 $P(T^+\\mid D)$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 15 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 15 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "3802782b-da2d-453f-8910-be5b6100e42c"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "( ) tells you how likely it is for someone who tests negative (screen negative) to not have the disease?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Positive predictive value",
+            "correct": false,
+            "option_id": "112cb16a-dade-4d91-a118-dfd221d156c4"
+          },
+          {
+            "type": "text",
+            "content": "1 - specificity",
+            "correct": false,
+            "option_id": "c5dbf775-25e0-46e5-bd8b-aadf95b02c1c"
+          },
+          {
+            "type": "text",
+            "content": "1 - sensitivity",
+            "correct": false,
+            "option_id": "13e2c2fd-5f5b-4537-ac1c-890131f4b379"
+          },
+          {
+            "type": "text",
+            "content": "Negative predictive value",
+            "correct": true,
+            "option_id": "b0fb1818-e36b-44e1-8e67-0aa0cd43c3f3"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "阴性预测值为 $P(D^c\\mid T^-)$, 即检测阴性者实际无病的概率"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 16 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 16 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "8a4a75fb-68a8-4874-8d7a-e45fe2476bc6"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "False positive is equal to"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Positive predictive value",
+            "correct": false,
+            "option_id": "ed91d991-037e-4cef-8762-90f228e3daf6"
+          },
+          {
+            "type": "text",
+            "content": "1 - specificity",
+            "correct": true,
+            "option_id": "fed117a4-dba6-4651-9832-1b6a28ec7f1f"
+          },
+          {
+            "type": "text",
+            "content": "1 - sensitivity",
+            "correct": false,
+            "option_id": "2816a9bf-f4d7-4ced-91bb-7ecf203cc468"
+          },
+          {
+            "type": "text",
+            "content": "Negative predictive value",
+            "correct": false,
+            "option_id": "4492c43f-8bf7-4ae6-b582-a34e63375efc"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "此处 False positive 按假阳性率理解, $P(T^+\\mid D^c)=1-\\mathrm{specificity}$; 若指假阳性人数, 则不能直接等于一个概率"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 17 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 17 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "a51b10c0-3e00-49da-a8e7-960d8bb01fbe"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "( ) tells you how likely it is for someone who tests positive (screen positive) to actually have the disease?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Positive predictive value",
+            "correct": true,
+            "option_id": "0f811f48-a336-431a-bdeb-616290279c8b"
+          },
+          {
+            "type": "text",
+            "content": "1 - specificity",
+            "correct": false,
+            "option_id": "c423bcec-7f26-455a-892f-45b414dd703c"
+          },
+          {
+            "type": "text",
+            "content": "1 - sensitivity",
+            "correct": false,
+            "option_id": "e51eabf4-69c7-42cd-851f-6c80f079831c"
+          },
+          {
+            "type": "text",
+            "content": "Negative predictive value",
+            "correct": false,
+            "option_id": "d936b2cb-8aa5-4045-b041-924c9da5586d"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "阳性预测值为 $P(D\\mid T^+)$, 即检测阳性者实际患病的概率"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 18 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 18 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "16813d66-51e2-4571-85e1-a3abd936786a"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "( ) is the probability that the test is negative given the person does not have a disease?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "The specificity",
+            "correct": true,
+            "option_id": "0d841fab-5078-4514-bbf3-0a0119cc2f8b"
+          },
+          {
+            "type": "text",
+            "content": "The sensitivity",
+            "correct": false,
+            "option_id": "64eaa0e1-7178-4919-8cb6-3bcf1cb55599"
+          },
+          {
+            "type": "text",
+            "content": "Positive predictive value",
+            "correct": false,
+            "option_id": "7c9e1745-2509-45d9-ac41-095fb7a6380f"
+          },
+          {
+            "type": "text",
+            "content": "Negative predictive value",
+            "correct": false,
+            "option_id": "98e9ce56-de36-4741-bf8d-3583ab857f63"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "特异度为 $P(T^-\\mid D^c)$, 条件为无病"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 19 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 19 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "f91ca02c-f68d-414e-91a8-774bd01398b6"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "( ) is the probability that the test is positive given the person has a disease?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "The specificity",
+            "correct": false,
+            "option_id": "50c6ff1e-c44b-43e5-865a-676930896f62"
+          },
+          {
+            "type": "text",
+            "content": "The sensitivity",
+            "correct": true,
+            "option_id": "f160335b-4fe6-43c4-8204-c0c2a055f347"
+          },
+          {
+            "type": "text",
+            "content": "Positive predictive value",
+            "correct": false,
+            "option_id": "5f3fcc67-db46-48b3-9d10-74600d83c21a"
+          },
+          {
+            "type": "text",
+            "content": "Negative predictive value",
+            "correct": false,
+            "option_id": "70efa47e-862a-49a6-b830-b46f1c0fc9f7"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "灵敏度为 $P(T^+\\mid D)$, 条件为患病"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 20 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 20 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "066ed407-92d4-4b66-8746-e69a63288a61"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Suppose x = c(1,2,3,2,5,4,5) in R, which of the following function is to get the frequency of x?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "mean(x)",
+            "correct": false,
+            "option_id": "b24f1458-6520-4fab-ad6b-1940cab79887"
+          },
+          {
+            "type": "text",
+            "content": "table(x)",
+            "correct": true,
+            "option_id": "70ab3fba-8f2b-4e69-b459-fc606fb0896f"
+          },
+          {
+            "type": "text",
+            "content": "freq(x)",
+            "correct": false,
+            "option_id": "927ff48b-e86a-4312-b388-f3f0910aa7e6"
+          },
+          {
+            "type": "text",
+            "content": "max(x)",
+            "correct": false,
+            "option_id": "93545bf3-d293-491d-8395-f7c768bbdc8c"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "R 的 table(x) 统计各取值频数, 本例 1,2,3,4,5 的频数为 1,2,1,1,2"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 21 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 21 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "238790dc-1f62-4186-9442-12a83033d898"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Suppose x = c(1,2,3,2,5,4,5), which of the following is to calculate the range of x in R?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "range(x)",
+            "correct": false,
+            "option_id": "eed1c58a-7c50-4d8d-ade8-4630d1ee19da"
+          },
+          {
+            "type": "text",
+            "content": "max(x) - min(x)",
+            "correct": true,
+            "option_id": "96d1e40c-bcd6-4799-99e7-acf329849b11"
+          },
+          {
+            "type": "text",
+            "content": "max(x)",
+            "correct": false,
+            "option_id": "6261aab2-2b8f-4cb4-96c8-cf3748e07f41"
+          },
+          {
+            "type": "text",
+            "content": "summary(x)",
+            "correct": false,
+            "option_id": "37cdec2d-9ec1-4204-9234-9e81aee5bb82"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "若 range 指统计学极差(宽度), max(x)-min(x)=5-1=4; R 的 range(x) 返回端点向量 c(1,5), 而非二者之差"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 22 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 22 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "64eccc54-afc6-411f-845a-017b40e72a5d"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "The discrete random variable X has probability function:\n  $$P(X=x)=\\begin{cases}a(3-x), & x=0,1,2,\\\\b, & x=3.\\end{cases}$$"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "$x$",
+              "0",
+              "1",
+              "2",
+              "3"
+            ],
+            "rows": [
+              [
+                "$P(X=x)$",
+                "$3a$",
+                "$2a$",
+                "$a$",
+                "$b$"
+              ]
+            ],
+            "align": [
+              "middle",
+              "middle",
+              "middle",
+              "middle",
+              "middle"
+            ]
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "5a + b = 1",
+            "correct": false,
+            "option_id": "138f67d4-631f-4bbb-a4a7-f12221df7808"
+          },
+          {
+            "type": "text",
+            "content": "6a + b = 1",
+            "correct": true,
+            "option_id": "c53d62d9-5189-401f-9eb4-6f39c98bdca5"
+          },
+          {
+            "type": "text",
+            "content": "5a + 2b = 1",
+            "correct": false,
+            "option_id": "df43f476-3e44-445c-8fcf-4864a76fb9c9"
+          },
+          {
+            "type": "text",
+            "content": "7a + b = 1",
+            "correct": false,
+            "option_id": "b775a315-2922-4993-a871-ab8ca701960c"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "归一化要求 $3a+2a+a+b=6a+b=1$, 还应满足 $a,b\\ge0$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 23 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 23 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "5474395b-2e9c-45a4-924e-82b25c6b8ca6"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Please calculate the specificity of the Diagnostic test using the data in the following data."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Diagnostic test (e.g., bitewing)",
+              "Gold Standard: Caries",
+              "Gold Standard: no Caries",
+              "Total"
+            ],
+            "rows": [
+              [
+                "Caries",
+                "24",
+                "2",
+                "26"
+              ],
+              [
+                "no Caries",
+                "21",
+                "58",
+                "79"
+              ],
+              [
+                "Total",
+                "45",
+                "60",
+                "105"
+              ]
+            ],
+            "align": [
+              "middle",
+              "middle",
+              "middle",
+              "middle"
+            ]
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.45",
+            "correct": false,
+            "option_id": "080ed84d-634f-4b6e-9875-2ed0e6c8f614"
+          },
+          {
+            "type": "text",
+            "content": "0.97",
+            "correct": true,
+            "option_id": "64b3659a-687c-4dae-a424-952768b6a419"
+          },
+          {
+            "type": "text",
+            "content": "0.54",
+            "correct": false,
+            "option_id": "ef172195-f53e-4b5e-ab8f-376d08c339f9"
+          },
+          {
+            "type": "text",
+            "content": "0.78",
+            "correct": false,
+            "option_id": "58e82e09-010b-4ef2-adab-5f0132f5457f"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "特异度为真阴性数除以全部无病者数, $58/(58+2)=0.9667\\approx0.97$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 24 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 24 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "b96de833-d6cc-4bd0-a732-defba0bc2df3"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "The length of survival time for the patients is"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "a continuous random variable",
+            "correct": true,
+            "option_id": "3e42f807-838a-4bcb-96d5-0635028439c1"
+          },
+          {
+            "type": "text",
+            "content": "a discrete random variable",
+            "correct": false,
+            "option_id": "8e78741b-a817-439e-ad9d-ffb70bc4f297"
+          },
+          {
+            "type": "text",
+            "content": "NOT a random variable",
+            "correct": false,
+            "option_id": "3cb8f11c-7fda-4bde-a146-4f77dd3f11b4"
+          },
+          {
+            "type": "text",
+            "content": "is a constant",
+            "correct": false,
+            "option_id": "3d9ec8c6-716e-4a9a-9d59-1692db0040f8"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "生存时间本质上可以连续取值, 即使记录时四舍五入到天或月, 通常仍视为连续随机变量"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 2",
+            "locator": "mcqs 第 25 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%202.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 2",
+            "locator": "第 25 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "2bb9afe4-6ec0-44fd-ab38-9031b2b91664"
+      }
+    ]
+  }
+}

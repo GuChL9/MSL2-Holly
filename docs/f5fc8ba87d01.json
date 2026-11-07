@@ -1,0 +1,203 @@
+{
+  "title": "2025秋小测4补测",
+  "author": [
+    "原资料贡献者, 题库整理者"
+  ],
+  "description": "",
+  "problems": {
+    "description": "",
+    "questions": [
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "A study was conducted to investigate the effect of a new medication on systolic blood pressure. Blood pressure was measured for 8 patients before and after taking the medication:"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Participant",
+              "Pre-Treatment BP (mmHg)",
+              "Post-Treatment BP (mmHg)"
+            ],
+            "rows": [
+              [
+                "1",
+                "140",
+                "150"
+              ],
+              [
+                "2",
+                "150",
+                "142"
+              ],
+              [
+                "3",
+                "135",
+                "128"
+              ],
+              [
+                "4",
+                "160",
+                "180"
+              ],
+              [
+                "5",
+                "145",
+                "138"
+              ],
+              [
+                "6",
+                "155",
+                "148"
+              ],
+              [
+                "7",
+                "148",
+                "170"
+              ],
+              [
+                "8",
+                "142",
+                "135"
+              ]
+            ],
+            "align": [
+              "left",
+              "right",
+              "right"
+            ]
+          },
+          {
+            "type": "text",
+            "content": "Please determine if the medication has a significant effect on changing blood pressure at alpha = 0.01."
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "令差值 $d=\\mathrm{Post}-\\mathrm{Pre}$, $H_0:\\mu_d=0$, $H_1:\\mu_d\\ne0$. 差值为 10,-8,-7,20,-7,-7,22,-7, $\\bar d=2$, $s_d=13.1584$, $SE=4.6522$, $t=0.4299$, $df=7$. 双侧 $\\alpha=0.01$ 的临界值为 $\\pm3.4995$, 不拒绝 $H_0$, 无足够证据认为平均血压发生变化"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "采用配对 t 检验, 正态性要求针对差值, 不同受试者应独立; 小样本且差值分布条件未说明, 该参数检验结论以差值近似正态为前提"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 4 补测",
+            "locator": "flashcards 第 1 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%204%20%E8%A1%A5%E6%B5%8B.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 4 补考",
+            "locator": "第 1 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "eceff69d-e52e-4775-94c9-7df5d79b0777"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Suppose you want to test whether smoking status is associated with lung disease in a sample of 200 individuals."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "",
+              "Lung Disease",
+              "No Disease",
+              "Total"
+            ],
+            "rows": [
+              [
+                "Smoker",
+                "65",
+                "40",
+                "105"
+              ],
+              [
+                "Non-smoker",
+                "25",
+                "75",
+                "100"
+              ],
+              [
+                "Total",
+                "90",
+                "115",
+                "205"
+              ]
+            ],
+            "align": [
+              "left",
+              "right",
+              "right",
+              "right"
+            ]
+          },
+          {
+            "type": "text",
+            "content": "Please fill the following table with expected frequencies and perform a Chi-square test at alpha = 0.01 (keep two-decimals during your calculation)."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "",
+              "Lung Disease",
+              "No Disease"
+            ],
+            "rows": [
+              [
+                "Smoker",
+                "",
+                ""
+              ],
+              [
+                "Non-smoker",
+                "",
+                ""
+              ]
+            ],
+            "align": [
+              "left",
+              "left",
+              "left"
+            ]
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "待确认: 题干称 200 人, 表格各格与边际合计均为 205 人. 若以表格为准, 期望频数依次为 46.10,58.90;43.90,56.10, Pearson $\\chi^2=28.32485$ (保留两位为 28.32), $df=1$, $p\\approx1.03\\times10^{-7}$. 大于 $\\chi^2_{0.99,1}=6.6349$, 在 $\\alpha=0.01$ 下拒绝独立性假设, 吸烟状态与肺病存在统计关联"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "$E_{ij}=R_iC_j/N$, $\\chi^2=\\sum(O-E)^2/E$, 使用未提前舍入的期望频数得到 28.32; 若逐项及中间值按两位舍入可能有末位差异. 必须先核对题干 200 与表格 205 的冲突"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 4 补测",
+            "locator": "flashcards 第 2 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%204%20%E8%A1%A5%E6%B5%8B.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 4 补考",
+            "locator": "第 2 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "3bca33e0-7fa5-4f15-915c-a3c9e6d8fdf4"
+      }
+    ]
+  }
+}

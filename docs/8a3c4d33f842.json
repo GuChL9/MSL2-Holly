@@ -1,0 +1,40 @@
+{
+  "title": "2026夏小测2",
+  "author": [
+    "原资料贡献者, 题库整理者"
+  ],
+  "description": "",
+  "problems": {
+    "description": "",
+    "questions": [
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "本份保留任务说明；配套数据文件和结果答卷未随材料提供。\n\n\n一、数据读取与预处理\n\n1. \n数据获取：请从钉钉课程群下载数据文件 data_quiz2_v2-Eng.txt，并将其设置在你的 R 语言工作目录（Working Directory）中。\n\n\n2. \n路径要求：在 R 脚本中读取数据时，请直接使用该文件名称（即相对路径），请勿使用绝对路径（例如 C:/Users/...），以确保代码在不同设备上的可复现性。\n\n\n3. \n样本过滤：在进行任何统计计算之前，请务必从数据集中识别并剔除你本人的数据记录，仅保留班级其余同学的样本。\n\n\n\n二、统计检验与计算\n针对上述清洗后的数据集，请检验班级除自己外的其余同学在 round2 的得分是否显著高于 round1 的得分（$\\alpha=0.01$），并计算差异的 99% 置信区间（99% CI）。\n\n为了对比不同假设前提下的检验效能，请分别使用以下三种方法完成计算，并对每段代码具体对应哪种统计方法进行注释：\n\n\n- 方法 A：配对样本 $t$ 检验（Paired t-test）\n- 方法 B：假设方差齐性的独立双样本 $t$ 检验（Pooled 2-sample t-test）\n- 方法 C：不假设方差齐性的独立双样本 $t$ 检验（Welch t-test）\n\n三、结果填报\n请提取上述三种方法的计算结果，并将各自对应的统计量准确填入答卷的相应位置。\n\n四、代码汇总与提交规范\n\n1. \n提交方式：请将本人完成的 R 代码粘贴至钉钉群共享文档 R-script.txt 中本人姓名和学号信息的下方，请勿修改他人的代码或姓名学号信息。该文档将作为完整脚本统一运行；若某位同学提交的代码段导致运行报错，将扣除该同学相应分数。\n\n\n2. \n独立完成：请勿使用任何 AI 工具生成代码。 本次练习旨在考察真实的独立分析与 R 编程能力，一经发现代码为 AI 生成，本次练习将按零分计算。\n\n\n\n汇总代码格式展示："
+          },
+          {
+            "type": "code",
+            "content": "# ==== 张三 学号1234567 =====\n# paired t-test:\nabc <- read.table(....)\nedf <- t.test(...)\n\n# pooled t-test:\nabc <- read.table(....)\nedf <- t.test(...)\n\n# Welch's t-test:\nabc <- read.table(....)\nedf <- t.test(...)\n\n# ==== 李四 学号2345668 =====\n# paired t-test:\nabc <- read.table(....)\nedf <- t.test(...)\n\n# pooled t-test:\nabc <- read.table(....)\nedf <- t.test(...)\n\n# Welch's t-test:\nabc <- read.table(....)\nedf <- t.test(...)\n",
+            "language": "r"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "待确认: 数据文件, 本人记录标识与原答卷均未提供, 无法得到t,df,p或数值区间\n先按原任务读取相对路径文件并剔除本人记录, 两轮配对必须按同一人对齐. 设d=round2-round1, H0: μd≤0, H1: μd>0, α=0.01\nA. 配对t检验: t=d̄/(sd/√n), df=n-1, p=P(T≥t). 同一批同学两轮结果存在配对, 此法符合设计\nB. Pooled独立双样本: sp²=[(n2-1)s2²+(n1-1)s1²]/(n2+n1-2), t=(x̄2-x̄1)/[sp√(1/n2+1/n1)], df=n2+n1-2\nC. Welch独立双样本: t=(x̄2-x̄1)/√(s2²/n2+s1²/n1), df=(s2²/n2+s1²/n1)²/[(s2²/n2)²/(n2-1)+(s1²/n1)²/(n1-1)]\nB,C是题目要求的对比分析, 将同一批人的两轮当独立样本会忽略相关性, 不作为首选推断\n通常双侧99%差值区间为估计差±t0.995,df×SE. 单侧greater检验若配套99%单侧区间则为[估计差-t0.99,df×SE,+∞), 两者应明确区分\n原任务要求本人独立编写提交代码, 本参考只说明分析方法, 不替代数据与本人原始作答"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年夏学期（25级）医学科学素养Ⅱ小测 / Quiz 2：R 编程任务",
+            "locator": "Quiz 2：R 编程任务",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-summer-quiz/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 贡献者：汪嘉琪（资料提供）。 资料性质：2025-2026 学年夏学期（25级）R 编程小测任务说明。  来源记录：MSL2-SUMMER-SUPPLEMENT-20261008。"
+          }
+        ],
+        "question_id": "8a56f50e-be3a-4903-bca8-ef934aa54ba9"
+      }
+    ]
+  }
+}

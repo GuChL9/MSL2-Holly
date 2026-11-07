@@ -1,0 +1,2022 @@
+{
+  "title": "选择题模拟",
+  "author": [
+    "原资料贡献者, 题库整理者"
+  ],
+  "description": "",
+  "mcqs": {
+    "description": "",
+    "questions": [
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Hair color, such as black, brown, blond and red, belongs to which type of data?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Nominal data",
+            "correct": true,
+            "option_id": "e2e1c27a-ed83-462b-8e76-d78601f5658a"
+          },
+          {
+            "type": "text",
+            "content": "Ordinal data",
+            "correct": false,
+            "option_id": "21aedc3c-6856-44a1-81fb-66eff297b8d6"
+          },
+          {
+            "type": "text",
+            "content": "Continuous variable",
+            "correct": false,
+            "option_id": "0fa7e754-80f7-4e93-bfef-6f3d2bdf317b"
+          },
+          {
+            "type": "text",
+            "content": "Discrete numerical variable",
+            "correct": false,
+            "option_id": "2dda900b-afdc-42fd-9051-d01720dd79f1"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "头发颜色只有类别，没有天然顺序，是名义数据 nominal data。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "一、文献检索、数据类型与描述统计 / 1",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "e3b00d5e-5620-40f5-a4bd-7bd9c8ee6722"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Disease severity recorded as mild, moderate and severe is best described as:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Nominal data",
+            "correct": false,
+            "option_id": "8be4f57b-83a8-4ee9-98f0-564be7b0bb5f"
+          },
+          {
+            "type": "text",
+            "content": "Ordinal data",
+            "correct": true,
+            "option_id": "e1c22ca2-01f8-4790-a82e-77b7f49b03af"
+          },
+          {
+            "type": "text",
+            "content": "Continuous variable",
+            "correct": false,
+            "option_id": "01a8f2a2-57de-44b3-b0dc-d41a1f9317d1"
+          },
+          {
+            "type": "text",
+            "content": "Poisson variable",
+            "correct": false,
+            "option_id": "37742f2b-ab15-4fd9-9d43-97fd3a79d316"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "轻、中、重有等级顺序，但相邻等级的“距离”不能当作等距数值处理。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "一、文献检索、数据类型与描述统计 / 2",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "ca304697-b9e2-4592-8f9f-7f6ee5a04a7a"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "A randomized clinical trial article reporting original patient data is usually classified as:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Primary literature / 一次文献",
+            "correct": true,
+            "option_id": "11f2d51a-faca-452d-934f-604b26f7747c"
+          },
+          {
+            "type": "text",
+            "content": "Secondary literature / 二次文献",
+            "correct": false,
+            "option_id": "4430b8d3-9399-49cd-9d2e-2f27ab466c00"
+          },
+          {
+            "type": "text",
+            "content": "Tertiary literature / 三次文献",
+            "correct": false,
+            "option_id": "13810ef2-2bfe-40db-b495-98ff12031a17"
+          },
+          {
+            "type": "text",
+            "content": "Zero literature / 零次文献",
+            "correct": false,
+            "option_id": "f27c8cf6-8c2f-4036-bb61-9a8a7599fc7b"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "期刊论文、科技报告等报告原始研究资料，属于一次文献。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "一、文献检索、数据类型与描述统计 / 3",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "244be9d5-9e50-4c58-bce6-466db119c513"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Which statement about scientific information tools is correct?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "In PubMed, [au] can limit the author field.",
+            "correct": false,
+            "option_id": "e7ef66c2-57bc-41ed-8fe6-34680fab8428"
+          },
+          {
+            "type": "text",
+            "content": "JCR can be used to check journal impact factor.",
+            "correct": false,
+            "option_id": "2c7cb8b0-a73b-4b60-a587-4e7b8c5bac6e"
+          },
+          {
+            "type": "text",
+            "content": "wwPDB / PDBe / PDBj are related to experimentally determined protein structures, while AlphaFold is often used for structure prediction.",
+            "correct": false,
+            "option_id": "e59e517e-dcdf-4a0d-8d65-c660cf45568d"
+          },
+          {
+            "type": "text",
+            "content": "All of the above.",
+            "correct": true,
+            "option_id": "597a584d-3149-4e42-afe4-78b5fe23204f"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "[au]限定PubMed作者字段, JCR提供期刊影响因子, PDB体系收集实验结构而AlphaFold用于预测结构, 所以最佳总括项为D"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "一、文献检索、数据类型与描述统计 / 4",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "17d149e5-40ea-49b0-ba33-0e12259d381d"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "To explore the relationship between two continuous variables, such as age and systolic blood pressure, the first graph you should consider is:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Histogram",
+            "correct": false,
+            "option_id": "9d429dcd-ff79-4b02-a7d2-295c54a91673"
+          },
+          {
+            "type": "text",
+            "content": "Scatter plot",
+            "correct": true,
+            "option_id": "6bd1bf6a-3ba1-4ad7-91bb-cc3bd57a3cf0"
+          },
+          {
+            "type": "text",
+            "content": "Bar chart",
+            "correct": false,
+            "option_id": "65003fb1-adef-4cd7-a01d-c324227c8354"
+          },
+          {
+            "type": "text",
+            "content": "Pie chart",
+            "correct": false,
+            "option_id": "99054790-65f6-4255-846d-46c3af753621"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "两个连续变量看关系，优先画散点图 scatter plot。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "一、文献检索、数据类型与描述统计 / 5",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "bb37d434-0e89-4977-b9f1-f77b89555e4d"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Given the ordered data: 3, 5, 7, 8, 10, 12, 15, 18, 20, 22, 26, 30. According to the course rule i = n × k%, what is the 10th percentile?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "3",
+            "correct": false,
+            "option_id": "9e5bf134-9c86-484a-bffd-923edc557247"
+          },
+          {
+            "type": "text",
+            "content": "5",
+            "correct": true,
+            "option_id": "3100b95b-87ac-4f19-b04f-78e7f46fd7b5"
+          },
+          {
+            "type": "text",
+            "content": "6",
+            "correct": false,
+            "option_id": "a02f00c2-d289-4b6d-b820-d17432a19bde"
+          },
+          {
+            "type": "text",
+            "content": "7",
+            "correct": false,
+            "option_id": "8ad4a591-cbb3-4001-9e99-3f59d4aaf6ad"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "i = 12 × 10% = 1.2，不是整数，向上取整为第 2 个数，所以 P10 = 5。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "一、文献检索、数据类型与描述统计 / 6",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "a09fb3aa-8fb2-4f76-91a8-6df4914889e2"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "For a positively skewed distribution, which relationship is usually correct?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Mean < Median < Mode",
+            "correct": false,
+            "option_id": "ef90fafb-ee8f-43bf-a52b-fca3bff99fdf"
+          },
+          {
+            "type": "text",
+            "content": "Mean = Median = Mode",
+            "correct": false,
+            "option_id": "fcfca437-8610-4ae6-9f3c-87f6fb30a334"
+          },
+          {
+            "type": "text",
+            "content": "Mean > Median > Mode",
+            "correct": true,
+            "option_id": "2fd8523d-9125-4683-a1e4-208a7401f45d"
+          },
+          {
+            "type": "text",
+            "content": "Mode > Mean > Median",
+            "correct": false,
+            "option_id": "dcc994e0-8cec-42b9-b850-2399fe50b44c"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "右偏态的尾巴在右边，极大值会把均数往右拉，常见顺序为 mean > median > mode。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "一、文献检索、数据类型与描述统计 / 7",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "68253a9a-1381-459f-ac86-08c8a6827afe"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Let x = 1, 2, 3, 4, 5 and y = 11, 12, 13, 14, 15. Which statement is correct?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Mean(y) = Mean(x), and SD(y) = SD(x)",
+            "correct": false,
+            "option_id": "a7a6cc89-bd31-4d96-9e66-ac9790a2d2f0"
+          },
+          {
+            "type": "text",
+            "content": "Mean(y) = Mean(x) + 10, and SD(y) > SD(x)",
+            "correct": false,
+            "option_id": "e8313839-d24a-41fc-a368-2954f2cc08c1"
+          },
+          {
+            "type": "text",
+            "content": "Mean(y) = Mean(x) + 10, and SD(y) = SD(x)",
+            "correct": true,
+            "option_id": "b81403eb-9171-4c9d-9c5c-46c7a1cd19fb"
+          },
+          {
+            "type": "text",
+            "content": "Mean(y) = Mean(x) + 10, and SD(y) < SD(x)",
+            "correct": false,
+            "option_id": "59bed5e6-969b-4ddf-b5bb-f83c34c11ae2"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "所有值同时加 10，均数加 10，但离散程度不变。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "一、文献检索、数据类型与描述统计 / 8",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "a1f3f920-c027-417d-87f2-deb57ce996b8"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Group A has mean = 60 and SD = 6. Group B has mean = 20 and SD = 4. Which group has a larger coefficient of variation?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Group A, because SD is larger",
+            "correct": false,
+            "option_id": "4a13b846-63ae-471d-a1af-89b0b2629b10"
+          },
+          {
+            "type": "text",
+            "content": "Group A, because mean is larger",
+            "correct": false,
+            "option_id": "f05f91d0-c6ab-410c-b1a2-f97c12e488e0"
+          },
+          {
+            "type": "text",
+            "content": "Group B, because CV = 4/20 is larger than 6/60",
+            "correct": true,
+            "option_id": "bdeca6ef-4ced-4f6a-8a70-9a54eb5993f7"
+          },
+          {
+            "type": "text",
+            "content": "They have the same CV",
+            "correct": false,
+            "option_id": "360ecfa0-36b6-44de-b111-27ae30e61692"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "变异系数 CV = SD / mean。A 为 10%，B 为 20%，B 相对波动更大。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "一、文献检索、数据类型与描述统计 / 9",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "094fe067-a780-4a86-afce-0352c22d6cd1"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Blinding in a clinical trial mainly helps control which bias?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Selection bias caused only by sample size",
+            "correct": false,
+            "option_id": "c460cf7a-d269-4733-a7c1-e38a12bf0553"
+          },
+          {
+            "type": "text",
+            "content": "Random error caused by small n",
+            "correct": false,
+            "option_id": "6bd7caab-c03b-484c-ae95-c02cff665b28"
+          },
+          {
+            "type": "text",
+            "content": "Information bias caused by subjective assessment",
+            "correct": true,
+            "option_id": "d31bd78b-76b2-4bac-bc23-6e4180f27983"
+          },
+          {
+            "type": "text",
+            "content": "Publication bias after the study is finished",
+            "correct": false,
+            "option_id": "dea2b97e-1a8e-4655-9fd5-c3496d4e8fa7"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "设盲通过隐藏分组信息，减少受试者或研究者主观判断带来的信息偏倚。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "一、文献检索、数据类型与描述统计 / 10",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "68aadb13-6b63-4fbc-8b4b-9d0e683b81e0"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "If the probability that an insurance buyer is male is 0.8, what is the probability that exactly 3 of 6 buyers are male?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.8³ × 0.2³",
+            "correct": false,
+            "option_id": "fdb0e9c4-7048-49ca-87e5-873b317fb0ab"
+          },
+          {
+            "type": "text",
+            "content": "C(6,3) × 0.2³ × 0.8²",
+            "correct": false,
+            "option_id": "2c43f3d2-d185-421f-9f85-8186f8f11755"
+          },
+          {
+            "type": "text",
+            "content": "C(6,3) × 0.8³ × 0.2³",
+            "correct": true,
+            "option_id": "98c7b294-e836-4b3f-9578-ff2626314684"
+          },
+          {
+            "type": "text",
+            "content": "6 × 0.8 × 0.2",
+            "correct": false,
+            "option_id": "8be18899-5386-44dd-a474-1f60a58721c2"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "二项分布正好 k 次成功：C(n,k)p^k(1-p)^(n-k)。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "二、概率分布与诊断试验 / 11",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "ad960155-b8fb-4568-b08b-8ca36645bd06"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "In R, dpois(2, 3) corresponds to which probability?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "e^-2 × 3² / 2!",
+            "correct": false,
+            "option_id": "586c40e5-934d-4e3d-83b8-2cc3c5ef7ce6"
+          },
+          {
+            "type": "text",
+            "content": "e^-3 × 3² / 2!",
+            "correct": true,
+            "option_id": "e9f13c46-38dd-47c6-b931-a3cafc374839"
+          },
+          {
+            "type": "text",
+            "content": "e^-3 × 2³ / 3!",
+            "correct": false,
+            "option_id": "2f48db9d-5daf-4528-a418-1a57735b9c4e"
+          },
+          {
+            "type": "text",
+            "content": "C(3,2) × 0.5² × 0.5",
+            "correct": false,
+            "option_id": "94f5cf6e-a0ec-47b8-9cf8-431d51b48971"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "泊松分布 P(X=k)=e^-λ λ^k/k!，这里 k = 2，λ = 3。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "二、概率分布与诊断试验 / 12",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "8ff58092-2545-43ef-b1f9-dd21430cf4db"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "For X ~ Po(λ), which statement is correct?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Mean = λ, variance = λ²",
+            "correct": false,
+            "option_id": "af3c4c54-b6c0-403f-ab9d-6da38f1f4ece"
+          },
+          {
+            "type": "text",
+            "content": "Mean = np, variance = np(1-p)",
+            "correct": false,
+            "option_id": "a1b59e0d-405a-49b6-8b51-22c75a759988"
+          },
+          {
+            "type": "text",
+            "content": "Mean = λ, variance = λ",
+            "correct": true,
+            "option_id": "59c56194-1c40-4409-8ddb-38b7bcf58e21"
+          },
+          {
+            "type": "text",
+            "content": "Mean = 0, variance = 1",
+            "correct": false,
+            "option_id": "409ac427-d784-4cc8-9a1d-39ad31e81003"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "泊松分布的均数和方差都等于 λ。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "二、概率分布与诊断试验 / 13",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "04ec60dc-3e51-4f58-a696-a6e7631e1488"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "A population has μ = 100 and σ = 12. A sample of n = 36 has x̄ = 104. What is the Z statistic for testing H0: μ = 100?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.33",
+            "correct": false,
+            "option_id": "d6120da6-aa52-4860-ad87-3ab89e8a25a9"
+          },
+          {
+            "type": "text",
+            "content": "1.00",
+            "correct": false,
+            "option_id": "a11dbf57-c650-41cc-af3a-57e24dcf7307"
+          },
+          {
+            "type": "text",
+            "content": "1.50",
+            "correct": false,
+            "option_id": "df5a60d2-e0ae-4146-afc1-182629dca480"
+          },
+          {
+            "type": "text",
+            "content": "2.00",
+            "correct": true,
+            "option_id": "b5fe7cfa-dfcc-4de7-903f-7b5469c6972e"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "SE = σ/√n = 12/6 = 2，所以 Z = (104 - 100)/2 = 2.00。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "二、概率分布与诊断试验 / 14",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "7465eb09-1d23-4c7c-8ee5-cfb6f269c959"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "For an approximately normal distribution, about 95% of observations fall in which interval?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "μ ± 1σ",
+            "correct": false,
+            "option_id": "89aa9ca6-0ad5-4f7a-9c7e-3b40c4f58375"
+          },
+          {
+            "type": "text",
+            "content": "μ ± 1.645σ",
+            "correct": false,
+            "option_id": "676443fa-1bb9-471e-a999-0fa6dba73796"
+          },
+          {
+            "type": "text",
+            "content": "μ ± 1.96σ",
+            "correct": true,
+            "option_id": "d91f996c-0d8a-4b72-aaba-a1304d66386d"
+          },
+          {
+            "type": "text",
+            "content": "μ ± 3.5σ",
+            "correct": false,
+            "option_id": "69d6920a-c961-4919-a737-8bc906e7f880"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "常用记忆为 68-95-99.7 法则，95% 大约对应 μ ± 1.96σ。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "二、概率分布与诊断试验 / 15",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "608bf9ab-8c64-49fe-8413-162f33ed386f"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "According to the table below, what is the sensitivity?"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "",
+              "Disease +",
+              "Disease -"
+            ],
+            "rows": [
+              [
+                "Test +",
+                "72",
+                "18"
+              ],
+              [
+                "Test -",
+                "8",
+                "102"
+              ]
+            ],
+            "align": [
+              "left",
+              "left",
+              "left"
+            ]
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "72 / (72 + 8) = 90%",
+            "correct": true,
+            "option_id": "68ea5521-8cf8-438a-9e67-e82afc9291ac"
+          },
+          {
+            "type": "text",
+            "content": "102 / (102 + 18) = 85%",
+            "correct": false,
+            "option_id": "21cf339e-0206-4c52-8f90-1efe958eb3b8"
+          },
+          {
+            "type": "text",
+            "content": "72 / (72 + 18) = 80%",
+            "correct": false,
+            "option_id": "44ba54d0-a9ab-4a31-b1c1-bce2ff8cb3b1"
+          },
+          {
+            "type": "text",
+            "content": "102 / (102 + 8) = 92.7%",
+            "correct": false,
+            "option_id": "85e57548-920a-4d1d-8210-9cdc4ed3bec9"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "灵敏度是在真正患病者中检出阳性的比例，TP/(TP+FN)。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "二、概率分布与诊断试验 / 16",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "6fc5fb6f-9ce9-4dc9-8a4b-f7f5323c123b"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Using the same table in Question 16, what is the specificity?"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "",
+              "Disease +",
+              "Disease -"
+            ],
+            "rows": [
+              [
+                "Test +",
+                "72",
+                "18"
+              ],
+              [
+                "Test -",
+                "8",
+                "102"
+              ]
+            ],
+            "align": [
+              "left",
+              "left",
+              "left"
+            ]
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "72 / (72 + 8) = 90%",
+            "correct": false,
+            "option_id": "3836b703-7345-44c3-a20b-aa94a72e05f4"
+          },
+          {
+            "type": "text",
+            "content": "102 / (102 + 18) = 85%",
+            "correct": true,
+            "option_id": "aed7e70b-bc31-4605-b076-3beb35631d0c"
+          },
+          {
+            "type": "text",
+            "content": "72 / (72 + 18) = 80%",
+            "correct": false,
+            "option_id": "b17eb983-dbe8-45cd-88bb-5c37a47b2ed7"
+          },
+          {
+            "type": "text",
+            "content": "18 / (18 + 102) = 15%",
+            "correct": false,
+            "option_id": "5c4ea29b-9cbb-4212-ab19-89e4dc79c103"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "特异度是在未患病者中判为阴性的比例，TN/(TN+FP)。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "二、概率分布与诊断试验 / 17",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "84ae56e8-ce59-4a3c-9ca1-88a99e9c7add"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "In a city of 1000 people, disease prevalence is 5%. A test has sensitivity = 80%. How many truly diseased people will be missed by the test?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "5",
+            "correct": false,
+            "option_id": "5a7860c8-8408-4fdd-a3ad-6fd5cd7313d2"
+          },
+          {
+            "type": "text",
+            "content": "8",
+            "correct": false,
+            "option_id": "5f6a06d3-04b5-424d-bc28-0c7f9da86cfa"
+          },
+          {
+            "type": "text",
+            "content": "10",
+            "correct": true,
+            "option_id": "5c22f109-21b1-4f6d-8154-e2e26d3d5251"
+          },
+          {
+            "type": "text",
+            "content": "50",
+            "correct": false,
+            "option_id": "09b87f8c-0ef6-49d6-8b38-6a707e3e2fe1"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "患病人数 1000 × 5% = 50；漏诊是假阴性，50 × (1 - 80%) = 10。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "二、概率分布与诊断试验 / 18",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "830d3dd8-18e1-43f1-8b6c-315b6f87d10a"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "A disease is very rare. Even with a fairly specific test, many positive results may be false positives. Which concept explains this best?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Sensitivity is not affected by prevalence.",
+            "correct": false,
+            "option_id": "dd95431d-b0f3-4497-804c-3ea3effbb2cf"
+          },
+          {
+            "type": "text",
+            "content": "Specificity is always equal to PPV.",
+            "correct": false,
+            "option_id": "8c097713-b3d6-4d6a-8432-8cdd137c425a"
+          },
+          {
+            "type": "text",
+            "content": "NPV decreases when prevalence is low.",
+            "correct": false,
+            "option_id": "fc0518d4-fbd3-4763-bdcb-645f9872fb76"
+          },
+          {
+            "type": "text",
+            "content": "PPV is strongly affected by prevalence.",
+            "correct": true,
+            "option_id": "d4111600-0dd0-4e9b-9d30-452db08c11dd"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "低患病率时未患病者基数巨大，少量假阳性也可能淹没真阳性，使 PPV 明显下降。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "二、概率分布与诊断试验 / 19",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "527f2022-6ff9-4692-92af-b52d69d2cc46"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "When the confirmatory treatment is expensive and has serious adverse effects, which diagnostic property should usually be prioritized to reduce false positives?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "High sensitivity",
+            "correct": false,
+            "option_id": "f459a0b5-a05f-40aa-8934-b138e0b7e3d1"
+          },
+          {
+            "type": "text",
+            "content": "High specificity",
+            "correct": true,
+            "option_id": "1e4bfd01-3b24-418b-95aa-3271a2e93474"
+          },
+          {
+            "type": "text",
+            "content": "Large sample size only",
+            "correct": false,
+            "option_id": "daadc20e-6bca-4e77-a563-4adbb2f9c5a8"
+          },
+          {
+            "type": "text",
+            "content": "Low negative predictive value",
+            "correct": false,
+            "option_id": "24745ca8-614d-4d4e-8be5-a583b18c475e"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "假阳性会让无病者接受昂贵或有害治疗，因此更需要高特异度来减少误诊。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "二、概率分布与诊断试验 / 20",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "e64da354-de5e-498a-9583-a575d60619d4"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Rejecting a true null hypothesis is called:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Type I error / false positive",
+            "correct": true,
+            "option_id": "7d1fff56-d7cf-46a1-9819-f93147626474"
+          },
+          {
+            "type": "text",
+            "content": "Type II error / false negative",
+            "correct": false,
+            "option_id": "554580d6-2b53-4e13-9532-15acf1e52b86"
+          },
+          {
+            "type": "text",
+            "content": "Power",
+            "correct": false,
+            "option_id": "ab4be206-0f7d-492b-8856-e83ad17e685a"
+          },
+          {
+            "type": "text",
+            "content": "Confidence interval",
+            "correct": false,
+            "option_id": "f1950041-6d19-45e1-a5a3-a83ed08c006b"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "H0 真实成立却被拒绝，是第 I 类错误，也是假阳性，概率由 α 控制。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "三、假设检验、t 检验、ANOVA 与卡方检验 / 21",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "cc3dfd86-ea16-4ac8-ae63-4905d1826920"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "If β = 0.15, what is the statistical power?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.15",
+            "correct": false,
+            "option_id": "30b5799c-97d5-4102-8db7-83d82832cb7a"
+          },
+          {
+            "type": "text",
+            "content": "0.85",
+            "correct": true,
+            "option_id": "d8dd4d49-d8ed-4561-b3b3-10e2a14217d8"
+          },
+          {
+            "type": "text",
+            "content": "1.15",
+            "correct": false,
+            "option_id": "f45bd1fd-e69a-4e50-8618-b40b9fe6d62d"
+          },
+          {
+            "type": "text",
+            "content": "0.05",
+            "correct": false,
+            "option_id": "b5bcd6fd-2ce0-4250-95a2-ea2f2b9a38a0"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "检验效能 power = 1 - β = 0.85。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "三、假设检验、t 检验、ANOVA 与卡方检验 / 22",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "e1c9447c-b3d4-4207-89cc-2ea3e7624e55"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "If α is changed from 0.05 to 0.01 while sample size and effect size are unchanged, what usually happens?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "False positives increase, false negatives decrease.",
+            "correct": false,
+            "option_id": "573d1941-a0b8-4186-a10f-3e855c737b8d"
+          },
+          {
+            "type": "text",
+            "content": "False positives and false negatives both decrease.",
+            "correct": false,
+            "option_id": "b476c13f-1af8-4f96-9d26-01546f558b25"
+          },
+          {
+            "type": "text",
+            "content": "False positives decrease, false negatives may increase.",
+            "correct": true,
+            "option_id": "1c01ec58-26c6-4203-a7bd-8a379ab8c355"
+          },
+          {
+            "type": "text",
+            "content": "Power must increase to 1.",
+            "correct": false,
+            "option_id": "11f8761f-276e-4400-85c8-9939f8d3db94"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "α 更严格时更不容易拒绝 H0，假阳性减少，但真实差异也更容易被漏掉。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "三、假设检验、t 检验、ANOVA 与卡方检验 / 23",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "d384a028-9103-478a-8d86-0b8f48c272f6"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "For testing a sample mean against a fixed value, if the population standard deviation σ is known, which test statistic is preferred?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Z statistic",
+            "correct": true,
+            "option_id": "39e2e561-946b-4d68-996a-16490e26e1d8"
+          },
+          {
+            "type": "text",
+            "content": "t statistic with df = n - 1",
+            "correct": false,
+            "option_id": "d47625bd-2c96-4574-964a-e72b9dee6f49"
+          },
+          {
+            "type": "text",
+            "content": "Chi-square statistic",
+            "correct": false,
+            "option_id": "d20ac2a1-c458-4eb0-9da5-9d23e456cceb"
+          },
+          {
+            "type": "text",
+            "content": "F statistic only",
+            "correct": false,
+            "option_id": "236cc29b-9cde-4f9f-bdce-94aac4a46d0e"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "σ已知时可用Z统计量; 要作精确Z推断仍需正态总体, 或在足够大样本下使用近似"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "三、假设检验、t 检验、ANOVA 与卡方检验 / 24",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "572cce1d-fb4e-4728-bce8-915559b2f585"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "A sample of 16 students has mean = 124 and s = 8. Test H0: μ = 120. What are the t statistic and degrees of freedom?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "t = 0.50, df = 16",
+            "correct": false,
+            "option_id": "442b8918-037a-4e94-a743-f8cce40dbfde"
+          },
+          {
+            "type": "text",
+            "content": "t = 2.00, df = 15",
+            "correct": true,
+            "option_id": "c3f33a8a-d32c-4b31-8020-9c3cd953f3b2"
+          },
+          {
+            "type": "text",
+            "content": "t = 2.00, df = 16",
+            "correct": false,
+            "option_id": "d6719272-5900-4bb9-9f4a-9ac73f663527"
+          },
+          {
+            "type": "text",
+            "content": "t = 4.00, df = 15",
+            "correct": false,
+            "option_id": "789d7cce-3978-4c42-9adf-9cf0cfe31ac4"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "t=(124-120)/(8/√16)=4/2=2.00，单样本 t 检验自由度为 n - 1 = 15。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "三、假设检验、t 检验、ANOVA 与卡方检验 / 25",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "eed6b108-1e16-43d6-b965-1a41eca5d7f9"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "The blood pressure of the same 9 patients is measured before and after taking a drug. Which test is most appropriate for testing whether BP decreases?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "One-sample Z test",
+            "correct": false,
+            "option_id": "18c957e4-89ef-4c37-ae33-e4d8b1328a5f"
+          },
+          {
+            "type": "text",
+            "content": "Two-sample independent t test",
+            "correct": false,
+            "option_id": "fd20a47e-f218-413a-8825-bb74ad3577bd"
+          },
+          {
+            "type": "text",
+            "content": "Paired t test",
+            "correct": true,
+            "option_id": "442b2f52-0f73-44cc-b2d0-8d53de6b6199"
+          },
+          {
+            "type": "text",
+            "content": "Chi-square goodness-of-fit test",
+            "correct": false,
+            "option_id": "73a0a1fd-1906-4348-a23b-2f6673786b1d"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "独立配对且差值近似正态时使用配对t检验; 仅n=9不能省略差值分布条件"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "三、假设检验、t 检验、ANOVA 与卡方检验 / 26",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "a72d5bd1-9fa6-428a-94ed-8f902e900b72"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Two independent groups are compared. Levene's test gives P = 0.01. Which t-test version is more appropriate?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Pooled t-test, because variances are equal",
+            "correct": false,
+            "option_id": "a8ae376a-c6c0-4d7d-9d02-3971b2827103"
+          },
+          {
+            "type": "text",
+            "content": "Welch t-test, because variances may be unequal",
+            "correct": true,
+            "option_id": "f7a86819-fdb3-4858-9854-56cba0f307fb"
+          },
+          {
+            "type": "text",
+            "content": "Paired t-test, because the groups are independent",
+            "correct": false,
+            "option_id": "c864e537-e0a3-40c0-8bff-e751d8b46bab"
+          },
+          {
+            "type": "text",
+            "content": "No test can be used if P < 0.05",
+            "correct": false,
+            "option_id": "4af76d8d-b378-4b43-8bbc-e198e0a0d786"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "Levene 检验 P ≤ 0.05 提示方差齐性不满足，优先考虑 Welch 校正。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "三、假设检验、t 检验、ANOVA 与卡方检验 / 27",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "c3f17fff-ef7f-42d4-bcd5-d175d93ce3af"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "To compare the mean blood pressure reduction among 4 independent treatment groups, which method should be used first?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Four separate one-sample t tests",
+            "correct": false,
+            "option_id": "2fefa944-7764-4711-b06d-264ff902ca43"
+          },
+          {
+            "type": "text",
+            "content": "Six repeated pairwise t tests without adjustment",
+            "correct": false,
+            "option_id": "ae38a14e-296c-4c53-b22c-c06df79e7ddc"
+          },
+          {
+            "type": "text",
+            "content": "Chi-square test",
+            "correct": false,
+            "option_id": "a16c6788-e9c2-4e2d-b535-4216d8105bc1"
+          },
+          {
+            "type": "text",
+            "content": "One-way ANOVA",
+            "correct": true,
+            "option_id": "c0174621-386d-4bbb-a8d1-1c8f9fb7b66a"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "均数比较可先用单因素ANOVA, 经典F检验需独立性, 近似正态和等方差; 方差不齐可用Welch ANOVA"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "三、假设检验、t 检验、ANOVA 与卡方检验 / 28",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "d09173b1-5475-475d-9a19-aaddb564ac5f"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "In a one-way ANOVA with 3 groups and total N = 30, SS_between = 60 and SS_within = 90. What is the F statistic?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "F = 3.00",
+            "correct": false,
+            "option_id": "857c7c3e-593d-45d5-a0b8-b47162666f64"
+          },
+          {
+            "type": "text",
+            "content": "F = 4.50",
+            "correct": false,
+            "option_id": "15d15231-046e-4acf-992c-f371877e8e52"
+          },
+          {
+            "type": "text",
+            "content": "F = 9.00",
+            "correct": true,
+            "option_id": "3075711a-479e-4665-bd84-d5a4eb8ef2e5"
+          },
+          {
+            "type": "text",
+            "content": "F = 30.00",
+            "correct": false,
+            "option_id": "3f3d5d19-5b03-42e6-89b1-87cfae33931a"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "组间 df = 2，组内 df = 27；MSB = 60/2 = 30，MSE = 90/27 = 3.33，F = 30/3.33 ≈ 9.00。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "三、假设检验、t 检验、ANOVA 与卡方检验 / 29",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "cc145532-a36d-4991-ae44-4914ea7945e5"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "For a chi-square independence test in a 2 × 3 contingency table, what is the degree of freedom?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "1",
+            "correct": false,
+            "option_id": "8ed46838-a67b-421d-b062-ce2bbc3f8e67"
+          },
+          {
+            "type": "text",
+            "content": "2",
+            "correct": true,
+            "option_id": "62f01134-e82a-4108-96bf-b227dfcc34cb"
+          },
+          {
+            "type": "text",
+            "content": "3",
+            "correct": false,
+            "option_id": "87739ba0-55ed-4486-b35a-6740a68d2eaf"
+          },
+          {
+            "type": "text",
+            "content": "6",
+            "correct": false,
+            "option_id": "b53ba857-b336-486c-a844-ee93f6150318"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "列联表卡方检验自由度为 (r-1)(c-1) = (2-1)(3-1)=2。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "三、假设检验、t 检验、ANOVA 与卡方检验 / 30",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "e3218257-16cb-4b4a-a459-e9a42b1952cd"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "A categorical variable has four theoretical equal proportions. Observed counts are 30, 20, 25, 25 in N = 100. What is the chi-square statistic?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "2.00",
+            "correct": true,
+            "option_id": "daea8a18-7f57-42fc-afcc-6f558d7b6a33"
+          },
+          {
+            "type": "text",
+            "content": "4.00",
+            "correct": false,
+            "option_id": "e2f6d540-7156-4f3e-826a-c4f0bb475409"
+          },
+          {
+            "type": "text",
+            "content": "7.50",
+            "correct": false,
+            "option_id": "316cb2ba-d8d3-49f8-8849-d1b072f50cf9"
+          },
+          {
+            "type": "text",
+            "content": "25.00",
+            "correct": false,
+            "option_id": "255e06d8-72d2-4a0e-81aa-7f1c643cee4b"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "各类期望频数 E = 25，χ² = (30-25)²/25 + (20-25)²/25 + 0 + 0 = 2。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "三、假设检验、t 检验、ANOVA 与卡方检验 / 31",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "88f49247-b296-43fd-b640-bd49e4b9349f"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Two independent small samples are clearly skewed and do not satisfy the assumptions for a t test. Which non-parametric test is commonly considered?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Paired t test",
+            "correct": false,
+            "option_id": "4fcb5960-b05b-4ff1-9507-9b8ce6db6727"
+          },
+          {
+            "type": "text",
+            "content": "Pearson correlation test",
+            "correct": false,
+            "option_id": "f58547d6-26e5-4a92-8f90-aff2238ce363"
+          },
+          {
+            "type": "text",
+            "content": "Wilcoxon rank-sum test / Mann-Whitney U test",
+            "correct": true,
+            "option_id": "85459e9c-0618-4bfe-bc6c-03f271e2fd3f"
+          },
+          {
+            "type": "text",
+            "content": "One-way repeated-measures ANOVA",
+            "correct": false,
+            "option_id": "8c3fda7a-83c5-498e-ad37-323817c28f2e"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "两独立样本且偏态、小样本时，可考虑 Wilcoxon 秩和检验作为双样本 t 检验的非参数替代。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "三、假设检验、t 检验、ANOVA 与卡方检验 / 32",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "3cb071f7-c4a7-4548-9afb-dd747dc7051b"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "If Pearson r = -0.80, which interpretation is correct?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Strong positive linear relationship, r² = 0.80",
+            "correct": false,
+            "option_id": "087595bd-4f95-40e9-83bd-a7955d25be24"
+          },
+          {
+            "type": "text",
+            "content": "Strong negative linear relationship, r² = 0.64",
+            "correct": true,
+            "option_id": "96b3a4e7-f83b-40e0-9ffa-c2d48328162f"
+          },
+          {
+            "type": "text",
+            "content": "No linear relationship, r² = -0.64",
+            "correct": false,
+            "option_id": "6d9d6446-ffc2-4eb4-85d7-4936c5a6d40d"
+          },
+          {
+            "type": "text",
+            "content": "Weak negative relationship, r² = 0.08",
+            "correct": false,
+            "option_id": "db3dcbf6-01fc-4ab7-b8b8-ba28af5e3c64"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "r 的符号表示方向，绝对值表示线性强度；r² = 0.64。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "四、回归、R 语言与效应指标 / 33",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "e1c56596-9d2b-434b-b2a8-58ec81c05bf9"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "In simple linear regression, given x̄ = 10, ȳ = 30, Lxx = 20, Lxy = 50, what is the regression equation?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "ŷ = 30 + 10x",
+            "correct": false,
+            "option_id": "c38c8305-d866-40f4-9b7a-d7f2bb065abc"
+          },
+          {
+            "type": "text",
+            "content": "ŷ = 2.5 + 5x",
+            "correct": false,
+            "option_id": "004ca00b-b4be-4d10-bd90-658c399682b7"
+          },
+          {
+            "type": "text",
+            "content": "ŷ = 10 + 2.5x",
+            "correct": false,
+            "option_id": "4b682a1a-4410-44bb-9f55-7fe73c2ef1c6"
+          },
+          {
+            "type": "text",
+            "content": "ŷ = 5 + 2.5x",
+            "correct": true,
+            "option_id": "445cd640-611a-4eca-a7a2-91adfe886f85"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "b=Lxy/Lxx=50/20=2.5；a=ȳ-bx̄=30-2.5×10=5。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "四、回归、R 语言与效应指标 / 34",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "cc573d62-25e9-4d23-b2ba-ec9c0c1ac861"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Using ŷ = 5 + 2.5x, when x = 12 the predicted y is 35. If the observed y is 38, what is the residual?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "3",
+            "correct": true,
+            "option_id": "189969f8-e70f-4cbf-b291-02ef0b48ed64"
+          },
+          {
+            "type": "text",
+            "content": "-3",
+            "correct": false,
+            "option_id": "dcb45720-6085-4197-b0ba-a3f7525d1195"
+          },
+          {
+            "type": "text",
+            "content": "35",
+            "correct": false,
+            "option_id": "01319d84-d648-46d1-95d5-b5651010cbc5"
+          },
+          {
+            "type": "text",
+            "content": "38",
+            "correct": false,
+            "option_id": "2176e03b-79ef-4fb3-8f3c-28c91b68ddfc"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "残差通常为 observed - predicted = 38 - 35 = 3。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "四、回归、R 语言与效应指标 / 35",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "5b305b9a-06a4-4f01-a6a1-8f68e7dd008d"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "In simple linear regression, n = 12, SSR = 80 and SSE = 40. What is the regression F statistic?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "F = 2, df = (1, 10)",
+            "correct": false,
+            "option_id": "d16f2630-a651-4800-a307-b22150acae22"
+          },
+          {
+            "type": "text",
+            "content": "F = 4, df = (2, 10)",
+            "correct": false,
+            "option_id": "15cc406c-86b1-410d-97a0-f860fbdad6e9"
+          },
+          {
+            "type": "text",
+            "content": "F = 20, df = (1, 10)",
+            "correct": true,
+            "option_id": "127546e7-bfbe-4c58-b683-354a36fdaaba"
+          },
+          {
+            "type": "text",
+            "content": "F = 80, df = (1, 11)",
+            "correct": false,
+            "option_id": "e25f721f-96a2-43fb-afe4-98398df1d981"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "简单线性回归回归 df = 1，残差 df = n - 2 = 10；MSR = 80/1 = 80，MSE = 40/10 = 4，F = 20。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "四、回归、R 语言与效应指标 / 36",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "f2d17ddd-d7cd-4bf8-a732-c112acd89158"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "A regression model is built from data with x ranging from 20 to 60. Is it recommended to predict y at x = 90?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Yes, because regression can always predict any x value.",
+            "correct": false,
+            "option_id": "2adf8e3b-edc8-4bbb-a868-ca875808b19c"
+          },
+          {
+            "type": "text",
+            "content": "No, because this is extrapolation beyond the observed range.",
+            "correct": true,
+            "option_id": "a109b816-5e39-46d8-b204-590d5e8fc5c1"
+          },
+          {
+            "type": "text",
+            "content": "Yes, if r is negative.",
+            "correct": false,
+            "option_id": "5fcf29fd-bb9b-4f3f-9884-35d2905e0ba6"
+          },
+          {
+            "type": "text",
+            "content": "No, because regression cannot be used for continuous variables.",
+            "correct": false,
+            "option_id": "099c9afd-0597-4c3a-8c2f-b94145da45b7"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "资料中强调预测最好限于原始数据最大值与最小值之间，x = 90 属于外推。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "四、回归、R 语言与效应指标 / 37",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "2d8118b1-d005-4198-a2bb-00c3dc603446"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "In R, for lm(BP ~ Age), which statement is correct?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Age is the dependent variable, BP is the independent variable.",
+            "correct": false,
+            "option_id": "04162d70-8bbb-4d4d-8fc9-4167dee4a41c"
+          },
+          {
+            "type": "text",
+            "content": "The first coefficient is always the slope of Age.",
+            "correct": false,
+            "option_id": "59796e8e-a1fa-49bb-b209-5cd757840279"
+          },
+          {
+            "type": "text",
+            "content": "The formula means Age ~ BP in mathematical notation.",
+            "correct": false,
+            "option_id": "2202b182-d78e-46f9-a22b-24084fed9a3f"
+          },
+          {
+            "type": "text",
+            "content": "BP is the dependent variable; the first coefficient is usually the intercept.",
+            "correct": true,
+            "option_id": "1151027f-d81b-4e8b-b263-1261e6279b79"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "R 公式写法是 Y ~ X，左边为因变量；系数顺序通常第 1 个是截距，第 2 个才是第一个自变量的回归系数。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "四、回归、R 语言与效应指标 / 38",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "309d4277-00c4-481d-bab4-bc37fb96bcd7"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "In summary(lm()), the Age row has Pr(>|t|) = 0.003, and Multiple R-squared = 0.48. Which interpretation is correct?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Age is not significant at α = 0.05, and R² means 48 observations were used.",
+            "correct": false,
+            "option_id": "2d6fda2f-2c7a-4e29-88fc-e86caef496c9"
+          },
+          {
+            "type": "text",
+            "content": "Age is statistically significant, and about 48% of BP variation is explained by the model.",
+            "correct": true,
+            "option_id": "984cf3a6-2362-4f2f-b965-88d41502356d"
+          },
+          {
+            "type": "text",
+            "content": "Age is significant only if R² is negative.",
+            "correct": false,
+            "option_id": "fdaa3f68-5d3a-4e98-8421-5022d7100eaa"
+          },
+          {
+            "type": "text",
+            "content": "The P value is used only for chi-square tests.",
+            "correct": false,
+            "option_id": "e84c9802-cb1a-4204-a06a-26f791323da0"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "P = 0.003 < 0.05，Age 的回归系数显著；R² = 0.48 表示模型解释约 48% 的因变量变异。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "四、回归、R 语言与效应指标 / 39",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "4f1ac6bf-4b29-421f-92d6-ebd28d941a8c"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "If a study analyzes survival time and considers the time-to-event factor using Cox regression, which effect measure is most commonly reported?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "OR, Odds Ratio",
+            "correct": false,
+            "option_id": "b86b1456-3e72-409c-b74b-8c13f751a99f"
+          },
+          {
+            "type": "text",
+            "content": "RR, Relative Risk",
+            "correct": false,
+            "option_id": "806e14b2-e44f-4517-8f98-c98649a8c104"
+          },
+          {
+            "type": "text",
+            "content": "HR, Hazard Ratio",
+            "correct": true,
+            "option_id": "924245b9-daaf-4010-8c7d-9a80abd85f5f"
+          },
+          {
+            "type": "text",
+            "content": "NNT, Number Needed to Treat",
+            "correct": false,
+            "option_id": "a102142b-c276-45ba-9557-7f391c6c0319"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "HR 风险比常用于生存分析或 Cox 回归，特点是考虑时间因素。"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "钉钉群复习资料 - 医学科学素养 II 小题模拟卷",
+            "locator": "四、回归、R 语言与效应指标 / 40",
+            "note": "复习模拟资料, 非历年真题"
+          }
+        ],
+        "question_id": "bf0dc459-7783-4627-a305-29a8d94d398c"
+      }
+    ]
+  }
+}

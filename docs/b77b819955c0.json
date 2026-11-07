@@ -1,0 +1,75 @@
+{
+  "title": "练习4 猜数",
+  "author": [
+    "原资料贡献者, 题库整理者"
+  ],
+  "description": "不计分课堂练习",
+  "problems": {
+    "description": "",
+    "questions": [
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "游戏共进行了两轮：第一轮为试玩，第二轮为正式游戏。小测使用两轮游戏的数据。\n\n游戏规则\n一、获胜方法：在 [0, 100] 之间选出一个整数，所选数字与“目标值”（8 组均值 × 0.7）差值最小的组获胜。\n\n二、流程与提交\n\n\n- 限时决策：各组讨论限时 5 分钟。\n- 同时提交：时间截止时，8 位组长必须同时上交纸条（纸条须写明：组号、所选整数）。如：“1组，50”。（漏写组号直接 out）\n- 并列淘汰：若最接近的数字被两组或以上同时选中，这些小组直接失去本轮获胜资格（但其数字仍计入总均值）。\n\n题目\n\n1. \n我们想要比较两轮分数是否存在显著差异（alpha = 0.05）。\n\na. Which hypothesis-testing method should be used? (Also specify whether the test should be one-sided or two-sided.)\n\nb. State the null and alternative hypotheses.\n\nc. Compute the test statistic and the degrees of freedom.\n\nd. Using α = 0.05, what is the critical value, and what is your conclusion?\n\n\n2. \n请计算第一轮的分数（r1, x）和第二轮的分数（r2, y）之间的 simple linear regression model y = bx + a 中的 b、a 值，并利用 F-test 分析该 regression 是否显著（alpha = 0.05）。"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Source of variation",
+              "SS",
+              "df",
+              "MS",
+              "F"
+            ],
+            "rows": [
+              [
+                "Regression",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Residual",
+                "",
+                "",
+                "",
+                "—"
+              ],
+              [
+                "Total",
+                "",
+                "—",
+                "—",
+                "—"
+              ]
+            ],
+            "align": [
+              "left",
+              "right",
+              "right",
+              "right",
+              "right"
+            ]
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "待确认: 缺少8个组的两轮实际分数, 无法计算t,b,a,F或实际显著性结论\n1a. 同8个组参加两轮, 以组为配对单位, 使用双侧配对t检验; 检验基于8组差值近似正态及独立组的课堂模型\n1b. 定义di=r2i-r1i, H0: μd=0, H1: μd≠0\n1c. t=d̄/(sd/√8), sd²=Σ(di-d̄)²/7, df=7\n1d. α=0.05时双侧临界值±2.364624. 若|t|>2.364624则拒绝H0, 否则不拒绝; 无实际分数不能代入判断\n2. 令x=r1,y=r2, Lxx=Σxi²-(Σxi)²/8, Lyy=Σyi²-(Σyi)²/8, Lxy=Σxiyi-ΣxiΣyi/8. 当Lxx>0时 b=Lxy/Lxx, a=ȳ-bx̄\n回归行: SS=Lxy²/Lxx, df=1, MS=SSR, F=SSR/(SSE/6)\n残差行: SS=Lyy-SSR, df=6, MS=SSE/6\n总计: SS=Lyy, df=7\nH0: β1=0, H1: β1≠0, 临界值F0.95(1,6)=5.987378, F超过该值则回归显著. 若x无变异, 斜率无法估计\n若分数由同一个8组目标值计算, 组间存在共享结果产生的依赖, 应将上述推断视作课堂模型, 不能忽略该设计限制"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 练习 4：Quiz-4 Beauty Contest",
+            "locator": "练习 4：Quiz-4 Beauty Contest",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 原始材料：用户提供的 Beauty Contest 题目照片、inbox 中同题照片及课堂游戏规则照片。 资料性质：2026-2027 学年秋学期（24级）课堂练习；不计分，作考勤。  来源记录：MSL2-PRACTICE-BEAUTY-CONTEST。"
+          }
+        ],
+        "question_id": "f0394594-a2a7-4b6b-bef3-32cea6aa36f5"
+      }
+    ]
+  }
+}

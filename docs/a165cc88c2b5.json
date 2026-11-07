@@ -1,0 +1,170 @@
+{
+  "title": "练习1 卡方",
+  "author": [
+    "原资料贡献者, 题库整理者"
+  ],
+  "description": "不计分课堂练习",
+  "problems": {
+    "description": "",
+    "questions": [
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "A researcher aims to investigate whether smoking status is associated with the presence of lung disease in adults. A sample of 200 individuals is classified according to their smoking status and lung disease status as shown below. (alpha = 0.05, round all intermediate and final calculations to two decimal places)"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "",
+              "Lung Disease",
+              "No Lung Disease",
+              "Total"
+            ],
+            "rows": [
+              [
+                "Smoker",
+                "40",
+                "60",
+                "100"
+              ],
+              [
+                "Non-Smoker",
+                "20",
+                "80",
+                "100"
+              ],
+              [
+                "Total",
+                "60",
+                "140",
+                "200"
+              ]
+            ],
+            "align": [
+              "left",
+              "right",
+              "right",
+              "right"
+            ]
+          },
+          {
+            "type": "text",
+            "content": "Please fill in the expected frequencies below:"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "",
+              "Lung Disease",
+              "No Lung Disease"
+            ],
+            "rows": [
+              [
+                "Smoker",
+                "",
+                ""
+              ],
+              [
+                "Non-Smoker",
+                "",
+                ""
+              ]
+            ],
+            "align": [
+              "left",
+              "left",
+              "left"
+            ]
+          },
+          {
+            "type": "text",
+            "content": "Please perform the Chi-square test and draw a conclusion."
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "H0: 吸烟状态与肺病状态独立; H1: 二者有关联\n期望频数为 [[30.00,70.00],[30.00,70.00]], 各格E=行和×列和/200, df=1\n按题意每项先保留两位: χ²=3.33+1.43+3.33+1.43=9.52. 使用未舍入中间值为9.52381, p≈0.002028\n临界值3.84, 在α=0.05下拒绝H0, 吸烟状态与肺病存在统计关联. 样本患病比例为40%和20%, 此关联检验本身不证明因果"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 练习 1：Quiz-1 Chi-square test",
+            "locator": "第 1 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 原始材料：用户提供的 Chi-square test 题目照片。 资料性质：2026-2027 学年秋学期（24级）课堂练习；不计分，作考勤。  来源记录：MSL2-PRACTICE-CHI-SQUARE。"
+          }
+        ],
+        "question_id": "ba7d9086-2128-4bf7-a254-3b5ed51b72c3"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "A public-health researcher wants to determine whether the ABO blood-group distribution in a community matches a specified reference distribution.\n\nThe researcher randomly selects 200 unrelated adults from a large community and records each participant’s blood group once. Assume that the observations are independent."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Blood group",
+              "Reference proportion",
+              "Observed number of participants"
+            ],
+            "rows": [
+              [
+                "O",
+                "0.40",
+                "100"
+              ],
+              [
+                "A",
+                "0.30",
+                "50"
+              ],
+              [
+                "B",
+                "0.20",
+                "30"
+              ],
+              [
+                "AB",
+                "0.10",
+                "20"
+              ],
+              [
+                "Total",
+                "1.00",
+                "200"
+              ]
+            ],
+            "align": [
+              "left",
+              "right",
+              "right"
+            ]
+          },
+          {
+            "type": "text",
+            "content": "At a significance level of 0.05, is there evidence that the community’s blood-group distribution differs from the reference distribution?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "H0: ABO总体分布为(0.40,0.30,0.20,0.10); H1: 至少一个类别比例不同\n期望频数(O,A,B,AB)=(80,60,40,20), χ²=(100-80)²/80+(50-60)²/60+(30-40)²/40+(20-20)²/20=9.16667\ndf=4-1=3, 临界值χ²0.95,3=7.81473, p≈0.0271551\nα=0.05下拒绝H0, 有证据表明该社区ABO分布与参照分布不同"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 练习 1：Quiz-1 Chi-square test",
+            "locator": "第 2 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 原始材料：用户提供的 Chi-square test 题目照片。 资料性质：2026-2027 学年秋学期（24级）课堂练习；不计分，作考勤。  来源记录：MSL2-PRACTICE-CHI-SQUARE。"
+          }
+        ],
+        "question_id": "507c1bca-625e-4f26-b6d3-73804daa4925"
+      }
+    ]
+  }
+}

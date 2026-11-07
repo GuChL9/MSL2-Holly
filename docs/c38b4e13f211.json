@@ -1,0 +1,1113 @@
+{
+  "title": "2025秋小测3",
+  "author": [
+    "原资料贡献者, 题库整理者"
+  ],
+  "description": "",
+  "mcqs": {
+    "description": "",
+    "questions": [
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "The weights of adult males are normally distributed with a mean of 80 kg and a stand deviation of 8.5 kg. What is the probability that one randomly selected male will weigh more than 75 kg?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.722",
+            "correct": true,
+            "option_id": "8b45e50e-7182-491a-8e44-39cd2d51a878"
+          },
+          {
+            "type": "text",
+            "content": "0.82",
+            "correct": false,
+            "option_id": "6fa8086e-0a48-4456-a6c0-1d6803ae6d7a"
+          },
+          {
+            "type": "text",
+            "content": "0.106",
+            "correct": false,
+            "option_id": "95b77ddb-2c5d-4534-9ab2-6b850c37cbaf"
+          },
+          {
+            "type": "text",
+            "content": "0.20",
+            "correct": false,
+            "option_id": "9b519a34-a773-4dc2-b823-9143a1358a86"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "$P(X>75)=\\Phi((80-75)/8.5)=0.72181$, 四舍五入为 0.722"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 3",
+            "locator": "mcqs 第 1 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 1 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "2aad8b12-a533-4001-bd8a-b27b6816a251"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "If Z is a standard normal random variable, compute P(Z < -1.96)"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "95%",
+            "correct": false,
+            "option_id": "23144352-2617-42dd-bcef-0302ed35f3c9"
+          },
+          {
+            "type": "text",
+            "content": "97.5%",
+            "correct": false,
+            "option_id": "9645a4d2-e891-4782-bb8d-6581b18e5d9d"
+          },
+          {
+            "type": "text",
+            "content": "99.7%",
+            "correct": false,
+            "option_id": "7fe0694b-b67b-4ad7-aa07-6272c10acfd3"
+          },
+          {
+            "type": "text",
+            "content": "2.5%",
+            "correct": true,
+            "option_id": "32ef320e-e5d1-44a0-91af-4d3f7ff5b9e0"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "$\\Phi(-1.96)=0.0249979\\approx2.5\\%$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 3",
+            "locator": "mcqs 第 2 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 2 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "8102c650-0d96-4497-af26-850b5a88ed80"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "If Z is a standard normal random variable, compute P(1.1 < Z < 2.1)"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "99.38%",
+            "correct": false,
+            "option_id": "b64652e9-93e3-43a9-b586-ec0b94415998"
+          },
+          {
+            "type": "text",
+            "content": "91.92%",
+            "correct": false,
+            "option_id": "4b874a0a-32e0-427d-b9fa-0a12be1bde72"
+          },
+          {
+            "type": "text",
+            "content": "11.8%",
+            "correct": true,
+            "option_id": "33612835-5406-4cee-b385-38b178ab22c6"
+          },
+          {
+            "type": "text",
+            "content": "10.18%",
+            "correct": false,
+            "option_id": "bef70893-4790-41d7-9422-9fb34869507e"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "$\\Phi(2.1)-\\Phi(1.1)=0.1178026\\approx11.8\\%$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 3",
+            "locator": "mcqs 第 3 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 3 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "6fbba625-4a8e-4c3b-af44-a32cef4ff11e"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Assume blood-glucose levels in a population of adult women are normally distributed with mean 90 mg/dL and standard deviation 30 mg/dL. Suppose the \"abnormal range\" were defined to be glucose levels outside of 1 standard deviation of the mean (i.e., either at least 1.8 standard deviation above the mean, or at least 1.8 standard deviation below mean). Individuals with abnormal levels will be retested. What percentage of individuals would be called \"abnormal\" and need to be retested?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "18%",
+            "correct": false,
+            "option_id": "5c1604f0-37ba-4831-99b8-f4523a02e39c"
+          },
+          {
+            "type": "text",
+            "content": "7.18%",
+            "correct": false,
+            "option_id": "bff8ef94-efcc-4708-a6f9-05fa1a5e5dc0"
+          },
+          {
+            "type": "text",
+            "content": "12%",
+            "correct": false,
+            "option_id": "d46d7635-f24f-402b-bf04-85992a8ad0ab"
+          },
+          {
+            "type": "text",
+            "content": "3.59%",
+            "correct": false,
+            "option_id": "ce2174ae-4d3b-482a-b67c-7b6d7a1ffa81"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "待确认: 题干同时写 outside of 1 standard deviation 与括号内的 1.8 standard deviation, 两者矛盾; 按 $|Z|>1$ 得 31.73%, 按 $|Z|>1.8$ 得 7.186%, 不能以选项反推并擅自改题"
+          }
+        ],
+        "selection_mode": "single",
+        "answer_status": "unavailable",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 3",
+            "locator": "mcqs 第 4 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 4 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "63cc0d89-5a68-4f09-8592-20fb960aa825"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Assume blood-glucose levels in a population of adult women are normally distributed with mean 90 mg/dL and standard deviation 30 mg/dL. Suppose the \"abnormal range\" were defined to be glucose levels outside of 1 standard deviation of the mean (i.e., either at least 1 standard deviation above the mean, or at least 1 standard deviation below mean). What is the normal range of glucose levels in units of mg/dL?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "(54,130)",
+            "correct": false,
+            "option_id": "0e20fa6d-c469-4764-a97c-e82055a630cb"
+          },
+          {
+            "type": "text",
+            "content": "(52,124)",
+            "correct": false,
+            "option_id": "10b49ff2-a24c-439f-8d39-0c9fd8caf978"
+          },
+          {
+            "type": "text",
+            "content": "(60,120)",
+            "correct": true,
+            "option_id": "fa81c892-1183-49d4-9e47-17a04347bfef"
+          },
+          {
+            "type": "text",
+            "content": "(52,128)",
+            "correct": false,
+            "option_id": "dbe4220e-6e1b-46fc-a87f-e15aeab46c17"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "正常范围为 $\\mu\\pm\\sigma=90\\pm30$, 即 (60,120) mg/dL"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 3",
+            "locator": "mcqs 第 5 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 5 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "ee8acd49-2d06-4a9f-b86e-88fd7d6e97f1"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "X is a normally distributed variable with mean μ = 25 and standard deviation σ = 4. Find P(x > 23)"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.8413",
+            "correct": false,
+            "option_id": "6007ea84-8048-4dd6-b224-aa042f155ba0"
+          },
+          {
+            "type": "text",
+            "content": "0.691",
+            "correct": true,
+            "option_id": "5c117ed2-c671-45bc-97bc-e19715b0c689"
+          },
+          {
+            "type": "text",
+            "content": "0.9878",
+            "correct": false,
+            "option_id": "158b3869-ce8e-4e1c-ab65-709764b99c79"
+          },
+          {
+            "type": "text",
+            "content": "0.4939",
+            "correct": false,
+            "option_id": "37525283-5182-41df-acc6-c17584724527"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "$P(X>23)=P(Z>-0.5)=\\Phi(0.5)=0.691462$, 选 0.691"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 3",
+            "locator": "mcqs 第 6 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 6 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "9031daa4-faa5-43ef-8c7d-957d98876379"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Entry to a certain University is determined by a national test. The scores on this test are normally distributed with a mean of 400 and a standard deviation of 80. Tom wants to be admitted to this university and he knows that he must score better than at least 80% of the students who took the test. Tom takes the test and scores 475. Which of the following is right?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Tom scored better than 82.5% of the students who took the test and he will be admitted to this University.",
+            "correct": true,
+            "option_id": "0a2d1172-a3ff-4b89-9761-015532a9073f"
+          },
+          {
+            "type": "text",
+            "content": "Tom scored less than 600 and he will not be admitted to this University.",
+            "correct": false,
+            "option_id": "9769dc58-b154-4a58-9fca-9ce0a6333cc8"
+          },
+          {
+            "type": "text",
+            "content": "Tom scored better than 19.76% of the students who took the test and he will not be admitted to this University.",
+            "correct": false,
+            "option_id": "b24b13f9-a3f2-4be1-b552-12134779cd10"
+          },
+          {
+            "type": "text",
+            "content": "Tom scored better than 75% of the students who took the test and he will be admitted to this University.",
+            "correct": false,
+            "option_id": "f3887ef3-dbbb-4422-9d75-58ae61b28279"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "$z=(475-400)/80=0.9375$, 百分位约 82.575%, 高于要求的 80%, A 是最接近的具体描述; 选项 82.5% 为粗略近似"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 3",
+            "locator": "mcqs 第 7 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 7 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "2d945365-b900-4601-901a-5243097b683f"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "The length of life of an instrument produced by a machine has a normal distribution with a mean of 14 months and standard deviation of 2 months. Find the probability that an instrument produced by this machine will last between 10 months and 15 months."
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.0062",
+            "correct": false,
+            "option_id": "fad710ef-5c09-4cd8-9323-8b9fc8dfcebf"
+          },
+          {
+            "type": "text",
+            "content": "0.6687",
+            "correct": true,
+            "option_id": "a93d7a9f-31fa-4666-9011-f35b7133df26"
+          },
+          {
+            "type": "text",
+            "content": "0.7745",
+            "correct": false,
+            "option_id": "5b14a3c7-0632-4946-98f7-c457af1da803"
+          },
+          {
+            "type": "text",
+            "content": "0.9938",
+            "correct": false,
+            "option_id": "cf8f991c-1d7f-4321-b10a-2774cd4b652f"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "$P(10<X<15)=\\Phi(0.5)-\\Phi(-2)=0.668712$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 3",
+            "locator": "mcqs 第 8 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 8 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "c8847350-3b0e-47fd-8145-5ea0c24832a0"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "The weights of adult males are normally distributed with a mean of 80 kg and a stand deviation of 8 kg. What is the probability that one randomly selected male will weigh more than 85 kg?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.159",
+            "correct": false,
+            "option_id": "a227542d-0393-4f37-8ae3-75928d249f48"
+          },
+          {
+            "type": "text",
+            "content": "0.266",
+            "correct": true,
+            "option_id": "76d9930b-8246-4624-bec7-142383fe8e4d"
+          },
+          {
+            "type": "text",
+            "content": "0.268",
+            "correct": false,
+            "option_id": "3e954ab5-9eb2-423e-9742-427427bdd858"
+          },
+          {
+            "type": "text",
+            "content": "0.265",
+            "correct": false,
+            "option_id": "7df86f67-ed72-4039-9c8e-1b9adadf5c10"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "$P(X>85)=1-\\Phi(5/8)=0.265986$, 选 0.266"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 3",
+            "locator": "mcqs 第 9 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 9 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "6a35ef15-fbfe-4533-a5e1-48f9deeb86c5"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Assume that the number of episodes per year of otitis media, a common disease of the middle ear in early childhood, follows a poisson distribution with parameter lamda=4.8 episode per year. Find the probability of getting 2 or more episodes of otitis media in the first 2 years of life."
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.8912",
+            "correct": false,
+            "option_id": "37d3f325-a1ac-4d30-bf1e-7a8a0e1182a4"
+          },
+          {
+            "type": "text",
+            "content": "0.9993",
+            "correct": true,
+            "option_id": "12215159-3100-46af-a393-1454f0a42bd1"
+          },
+          {
+            "type": "text",
+            "content": "0.9663",
+            "correct": false,
+            "option_id": "51e8282f-1e24-4e05-afbf-8bbb52cfe008"
+          },
+          {
+            "type": "text",
+            "content": "0.2652",
+            "correct": false,
+            "option_id": "f3a97aa8-bb2d-403c-a0a6-88869d25cbbd"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "按恒定发生率的泊松计数模型, 两年参数 $\\lambda=4.8\\times2=9.6$, $P(X\\ge2)=1-e^{-9.6}(1+9.6)=0.999282$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 3",
+            "locator": "mcqs 第 10 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 10 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "2e1e962f-bc30-4158-972e-c5b46330c5e3"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Assume that the number of episodes per year of otitis media, a common disease of the middle ear in early childhood, follows a poisson distribution with parameter lamda=2.6 episode per year. Find the probability of not getting any episodes of otitis media in the first one and half year of life:"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.62",
+            "correct": false,
+            "option_id": "3e06359d-5a41-4c08-954b-166d0802b4b8"
+          },
+          {
+            "type": "text",
+            "content": "0.074",
+            "correct": false,
+            "option_id": "cfcb16c5-c0a3-493a-9c7f-ef92b8906292"
+          },
+          {
+            "type": "text",
+            "content": "0.02",
+            "correct": true,
+            "option_id": "8b87838f-4846-4814-9db9-26feda9a8b3e"
+          },
+          {
+            "type": "text",
+            "content": "0.265",
+            "correct": false,
+            "option_id": "a64be72d-c163-4c24-89d0-3b8ca50180dd"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "按恒定发生率的泊松计数模型, 1.5 年参数 $\\lambda=2.6\\times1.5=3.9$, $P(X=0)=e^{-3.9}=0.020242$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 3",
+            "locator": "mcqs 第 11 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 11 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "cb141ed0-7bc8-44bf-9da9-74e348b528e6"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Assume that the number of episodes per year of otitis media, a common disease of the middle ear in early childhood, follows a poisson distribution with parameter lamda=2 episode per year. What is the probability that 2 siblings will both have 3 or more episodes of otitis media in the first 2 years of life."
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.580",
+            "correct": true,
+            "option_id": "e656ac92-7318-4581-916a-f9d7424709b3"
+          },
+          {
+            "type": "text",
+            "content": "0.206",
+            "correct": false,
+            "option_id": "b6cc3437-9656-490c-b00a-e4bb48d9aa21"
+          },
+          {
+            "type": "text",
+            "content": "0.794",
+            "correct": false,
+            "option_id": "746e673d-1e8f-4ae0-a533-8ba9d028abbf"
+          },
+          {
+            "type": "text",
+            "content": "0.265",
+            "correct": false,
+            "option_id": "e1a9fdd4-fcd0-4282-a65e-ad94df02f821"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "采用两名同胞相互独立且发生率恒定的通常泊松模型, 每人两年 $X\\sim\\mathrm{Pois}(4)$, 所求为 $[1-e^{-4}(1+4+8)]^2=0.580487$, 对应 A. 题干未明说同胞独立, 若存在相关性, 联合概率不能由各自边缘分布唯一确定"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 3",
+            "locator": "mcqs 第 12 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 12 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "f3342386-82ed-4a40-ab49-29ac9fa8458b"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "If the probability of having MS for an adult given he/she is obesity is 0.25. Then six obesity adults are randomly selected. Find the probability that 2 of them have MS."
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.3456",
+            "correct": false,
+            "option_id": "119caa79-d681-49b0-a6dc-42a08a0a9ea1"
+          },
+          {
+            "type": "text",
+            "content": "0.6826",
+            "correct": false,
+            "option_id": "2847676e-c936-4892-8568-a239bd040ac8"
+          },
+          {
+            "type": "text",
+            "content": "0.324",
+            "correct": false,
+            "option_id": "7388dc5b-3014-4e53-8e60-295a2fa7dffe"
+          },
+          {
+            "type": "text",
+            "content": "0.297",
+            "correct": true,
+            "option_id": "40b5fa3c-27ea-4fdf-af2c-b888a95ce7d6"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "按独立同分布抽样的二项模型, $P(X=2)=\\binom62(0.25)^2(0.75)^4=0.296631$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 3",
+            "locator": "mcqs 第 13 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 13 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "caf18c16-8e8a-4be0-8bc3-d2c85caa9846"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "If the probability of having MS for an adult given he/she is obesity is 0.25. Then six obesity adults are randomly selected. What is the probability that at most 2 of them have MS?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.3456",
+            "correct": false,
+            "option_id": "2e46e5d4-1afc-4924-a01e-069bf6a4fa29"
+          },
+          {
+            "type": "text",
+            "content": "0.831",
+            "correct": true,
+            "option_id": "adf575a3-f1c5-4fe0-b8d8-78469f3c77b8"
+          },
+          {
+            "type": "text",
+            "content": "0.744",
+            "correct": false,
+            "option_id": "6c0476c0-2711-41e5-9dc1-cf60822f287f"
+          },
+          {
+            "type": "text",
+            "content": "0.265",
+            "correct": false,
+            "option_id": "6f1aaa44-13e9-4539-8a85-c4a6814bbafe"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "$P(X\\le2)=\\sum_{k=0}^2\\binom6k(0.25)^k(0.75)^{6-k}=0.830566$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 3",
+            "locator": "mcqs 第 14 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 14 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "f67a0e88-a34e-47a1-a8bc-ed892d25abe1"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Suppose the number of deaths from colorectal cancer in one city over a 1-year period is 5. What is the probability of 4 deaths happened over one year?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.3456",
+            "correct": false,
+            "option_id": "efaa008f-d55d-4edf-b878-e36f012ebb35"
+          },
+          {
+            "type": "text",
+            "content": "0.168",
+            "correct": false,
+            "option_id": "629b5464-1d24-4329-90d1-0957ad6508b9"
+          },
+          {
+            "type": "text",
+            "content": "0.385",
+            "correct": false,
+            "option_id": "4834f687-1fee-4ee3-8644-dd7e48ea89c5"
+          },
+          {
+            "type": "text",
+            "content": "0.175",
+            "correct": true,
+            "option_id": "1024d37a-99b5-4686-8379-922ac99e6c64"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "按本组题的通常泊松计数模型, 将 5 理解为年期望死亡数, $X\\sim\\mathrm{Pois}(5)$, $P(X=4)=e^{-5}5^4/4!=0.175467$, 对应 D. 泊松模型和5为期望数是解题采用的条件, 单凭一次观察到5人死亡不能推出此概率"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 3",
+            "locator": "mcqs 第 15 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 15 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "2aceaee7-c7f4-41fd-a629-79961261ddf0"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Suppose the number of deaths from colorectal cancer in one city over a 1-year period is 3. What is the probability of at most 4 deaths happened over 3 years?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "0.055",
+            "correct": true,
+            "option_id": "e6fde045-9118-49ff-aaa3-56c53104dfb2"
+          },
+          {
+            "type": "text",
+            "content": "0.6826",
+            "correct": false,
+            "option_id": "876fb8b1-9ac3-4f06-af75-2adcbf68b105"
+          },
+          {
+            "type": "text",
+            "content": "0.385",
+            "correct": false,
+            "option_id": "457b2d9b-3bde-46f9-a759-189e83d49137"
+          },
+          {
+            "type": "text",
+            "content": "0.265",
+            "correct": false,
+            "option_id": "74865a7f-d812-463b-9bc9-fbbe9a015880"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "按恒定泊松计数模型, 将 3 理解为年平均死亡数, 三年 $X\\sim\\mathrm{Pois}(9)$, $P(X\\le4)=e^{-9}\\sum_{k=0}^4 9^k/k!=0.054964$, 对应 A. 本解答以恒定发生率及泊松计数模型为条件"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 3",
+            "locator": "mcqs 第 16 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 16 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "23935d48-867b-466d-a1e9-ca5190957b43"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Which of the following statement is NOT true?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "If X ~ B(n,p), where n is large and p is small, then X can be approximated using Poisson distribution.",
+            "correct": false,
+            "option_id": "3d88c547-decf-4d35-ba65-ea8bb5b85763"
+          },
+          {
+            "type": "text",
+            "content": "If X ~ B(n,p), where n is large and p is not near 0 or 1, then X can be approximated by normal distribution.",
+            "correct": false,
+            "option_id": "785f73d4-e20a-444f-87bf-12dcdf279469"
+          },
+          {
+            "type": "text",
+            "content": "When lambda is larger than ten, Poisson distribution can be approximated by normal distribution.",
+            "correct": false,
+            "option_id": "9c9f567e-7103-4d1b-a40a-42dd5250fcb4"
+          },
+          {
+            "type": "text",
+            "content": "For the binomial distribution, the expectation is equal to the variance.",
+            "correct": true,
+            "option_id": "b2007413-fd0e-40cf-8f26-f32306a0e40c"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "二项分布的均值为 $np$, 方差为 $np(1-p)$, 一般不相等; 前三项为常见近似规律, 近似精度仍取决于参数及所求尾部"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 3",
+            "locator": "mcqs 第 17 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 17 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "c7cdc3e0-308f-4ddb-98c1-678746b1fa48"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "For rare disease, which model should be used?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "Binomial",
+            "correct": false,
+            "option_id": "f44e83c2-7866-480a-90df-12cf558822f9"
+          },
+          {
+            "type": "text",
+            "content": "Poisson",
+            "correct": true,
+            "option_id": "219d5aac-39f1-42fe-b8a9-299545890516"
+          },
+          {
+            "type": "text",
+            "content": "Normal",
+            "correct": false,
+            "option_id": "24c63edd-d06d-4824-8033-068a34c60d58"
+          },
+          {
+            "type": "text",
+            "content": "Gaussian",
+            "correct": false,
+            "option_id": "a1690441-1781-4596-9c01-ffc445f8cee8"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "本题按固定时间或区域内稀有疾病事件数的常见模型理解, 选择 Poisson. 若题目研究的是固定 n 人中独立患病人数, 则可用二项分布, 稀有且 n 大时再作泊松近似; 具体模型仍依赖随机变量与抽样条件"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 3",
+            "locator": "mcqs 第 18 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 18 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "d61bd36c-8477-48e9-863d-dee5a61b7af3"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "If value of x for normal distribution is 90, mean of normal distribution is 105 and the variance is 65 then standardized random variable is"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "-1.5",
+            "correct": false,
+            "option_id": "6c6c7561-5097-4f24-a59d-4f040886e61d"
+          },
+          {
+            "type": "text",
+            "content": "-1.2",
+            "correct": false,
+            "option_id": "de898eb8-03d6-47fe-bf91-a4bdbc4d60ed"
+          },
+          {
+            "type": "text",
+            "content": "1.7",
+            "correct": false,
+            "option_id": "21fd1d8c-d0e5-4a9d-963b-30419b87fc04"
+          },
+          {
+            "type": "text",
+            "content": "-1.86",
+            "correct": true,
+            "option_id": "77d7178f-230c-4312-a70e-b71d7860994e"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "给出的是方差 65, 所以 $z=(90-105)/\\sqrt{65}=-1.86052$, 选 -1.86"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 3",
+            "locator": "mcqs 第 19 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 19 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "ec8350b5-54ee-4dd1-92d4-4640b3c4ced7"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "A new surgical procedure is successful 88% of the time. the procedure is performed 8 times and it can be assumed that it is independent each time. Find the expected value of the successful operations."
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "7.04",
+            "correct": true,
+            "option_id": "a35c2462-367b-4b6e-a74d-23e97e917aed"
+          },
+          {
+            "type": "text",
+            "content": "1.02",
+            "correct": false,
+            "option_id": "88a259ef-ede8-4fd9-b919-ee7af18e1682"
+          },
+          {
+            "type": "text",
+            "content": "6.8",
+            "correct": false,
+            "option_id": "57247c68-9ee8-4bd0-b5e9-0bbef782a7f4"
+          },
+          {
+            "type": "text",
+            "content": "1.2",
+            "correct": false,
+            "option_id": "9f6cc8cb-6649-4ff3-8454-6a9ca66d302f"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "$X\\sim B(8,0.88)$, $E(X)=np=7.04$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 3",
+            "locator": "mcqs 第 20 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%203.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 3",
+            "locator": "第 20 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "b5816098-aa5f-40a0-8f57-d0d06fb9ac60"
+      }
+    ]
+  }
+}

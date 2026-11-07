@@ -1,0 +1,44 @@
+website:
+  title: 医学科学素养Ⅱ题库
+  description: 课堂测试, 历年期末, 历年小测与其他练习
+bank_id: 6b2314bf-8846-403a-bb6e-3d61c1a72fb1
+identity_mode: stable
+nav:
+- 2026-2027秋课堂测试:
+  - 小测1: docs/f629bb2a872c.json
+  - 小测2: docs/6036222ebcc2.json
+  - 小测3: docs/827f372243c3.json
+  - 小测4: docs/c34bec97bc40.json
+  - 练习1 卡方: docs/a165cc88c2b5.json
+  - 练习2 方差分析: docs/6b407ee74100.json
+  - 练习3 回归与相关: docs/d11c531dbf52.json
+  - 练习4 猜数: docs/b77b819955c0.json
+- 历年期末题:
+  - 2022秋回忆卷: docs/248100d1ab78.json
+  - 2023秋回忆卷: docs/49b106cdfffe.json
+  - 2025秋回忆卷: docs/35f673b4b7ab.json
+- 历年小测题:
+  - 2025秋小测1: docs/7292a1355d21.json
+  - 2025秋小测2: docs/9030c6a67368.json
+  - 2025秋小测3: docs/c38b4e13f211.json
+  - 2025秋小测4: docs/a828ab96457d.json
+  - 2025秋小测4补测: docs/f5fc8ba87d01.json
+  - 2025秋小测5: docs/7a96d7202ab5.json
+  - 2025秋练习1: docs/dc0883649768.json
+  - 2025秋练习2: docs/6863ad0b5e00.json
+  - 2025秋课堂示例: docs/b0dc09bfe0df.json
+  - 2026夏小测2: docs/8a3c4d33f842.json
+  - 2026夏小测3: docs/4211834243da.json
+  - 2026夏小测4: docs/8a84d1d5ac39.json
+  - 2026夏概率小测: docs/047c805c8b69.json
+  - 2026夏补测: docs/70b16c4805a9.json
+- 其他练习:
+  - 中文模拟1: docs/3cd963f806b2.json
+  - 中文模拟2: docs/8f0b489e2b86.json
+  - 中文模拟3: docs/456b589a8481.json
+  - 例题: docs/f49e0fc47207.json
+  - 大题模拟: docs/21bf7f30d2d0.json
+  - 选择题模拟: docs/b9f65c56c4df.json
+  - 英文模拟1: docs/1fe319294765.json
+  - 英文模拟2: docs/69e7321cc98b.json
+  - 英文模拟3: docs/e9bd062c0bbb.json

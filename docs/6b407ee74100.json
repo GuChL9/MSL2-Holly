@@ -1,0 +1,118 @@
+{
+  "title": "练习2 方差分析",
+  "author": [
+    "原资料贡献者, 题库整理者"
+  ],
+  "description": "不计分课堂练习",
+  "problems": {
+    "description": "",
+    "questions": [
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "A researcher investigates whether mean basal oxygen consumption in blood immune cells differs among healthy controls, participants with high-tension glaucoma, and participants with normal-tension glaucoma. The published group summaries are shown below.\n\nOxygen consumption rate (OCR) is measured in pmol oxygen/min per 100,000 cells."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Group",
+              "n",
+              "Mean OCR",
+              "SD"
+            ],
+            "rows": [
+              [
+                "Healthy controls",
+                "50",
+                "26.8",
+                "5.5"
+              ],
+              [
+                "High-tension glaucoma",
+                "69",
+                "21.6",
+                "3.9"
+              ],
+              [
+                "Normal-tension glaucoma",
+                "99",
+                "19.2",
+                "4.1"
+              ]
+            ],
+            "align": [
+              "left",
+              "right",
+              "right",
+              "right"
+            ]
+          },
+          {
+            "type": "text",
+            "content": "A\nState the null and alternative hypotheses.\n\nH₀: ____________________________________\n\nH₁: ____________________________________\n\nB\nCalculate the sums of squares and mean squares, complete the ANOVA table, and show your working.（保留两位小数）"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Source of variation",
+              "SS",
+              "df",
+              "MS",
+              "F"
+            ],
+            "rows": [
+              [
+                "Between groups",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Within groups",
+                "",
+                "",
+                "",
+                "—"
+              ],
+              [
+                "Total",
+                "",
+                "",
+                "—",
+                "—"
+              ]
+            ],
+            "align": [
+              "left",
+              "right",
+              "right",
+              "right",
+              "right"
+            ]
+          },
+          {
+            "type": "text",
+            "content": "C\nReport the critical F value (α = 0.05) and the degrees of freedom used. State your decision at α = 0.05 and draw a conclusion in the context of the study.\n\nD\nDoes this observational comparison establish that glaucoma causes a difference in OCR? Explain.\n\n\n题目数据来源： Perritt et al., Nature Medicine (2024), Fig. 1a, DOI: 10.1038/s41591-024-03068-6"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "A. H0: μ健康=μ高眼压青光眼=μ正常眼压青光眼; H1: 至少一个总体平均OCR不同\nB. N=218, 加权总均值=(50×26.8+69×21.6+99×19.2)/218=21.702752\nSSB=Σnj(x̄j-x̄)²=1919.93835, SSW=49×5.5²+68×3.9²+98×4.1²=4163.91\nANOVA表: 组间SS=1919.94, df=2, MS=959.97, F=49.57; 组内SS=4163.91, df=215, MS=19.37; 总SS=6083.85, df=217\nC. F0.95(2,215)=3.03786≈3.04, p≈1.9825×10^-18. α=0.05下拒绝H0, 至少一组总体平均OCR不同, 总体F检验不直接确认所有两两差异\nD. 这是观察性比较, 不能据此确定青光眼导致OCR变化, 可能存在年龄, 治疗, 其他疾病等混杂\n计算依据题给四舍五入后的汇总量, 采用普通单因素ANOVA的独立性, 近似正态及方差齐性前提"
+          }
+        ],
+        "sources": [
+          {
+            "title": "BMS Database 本地资料 - 2026-2027 学年秋学期（24级）医学科学素养Ⅱ练习与小测 / 练习 2：One-way ANOVA",
+            "locator": "练习 2：One-way ANOVA",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2026-2027-autumn-quizzes/",
+            "note": "2026-11-07本地快照, 部分内容尚未在线发布; 贡献者：李建树（资料提供）。 原始出处：题目照片；题目末尾注明 Perritt et al., Nature Medicine (2024), DOI: 10.1038/s41591-024-03068-6。 资料性质：2026-2027 学年秋学期（24级）课堂练习；不计分，作考勤。  来源记录：MSL2-ANOVA-1029。"
+          }
+        ],
+        "question_id": "f3908962-3653-4265-ba0e-1654f774a2a5"
+      }
+    ]
+  }
+}

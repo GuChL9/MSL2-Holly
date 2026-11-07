@@ -1,0 +1,973 @@
+{
+  "title": "2025秋小测1",
+  "author": [
+    "原资料贡献者, 题库整理者"
+  ],
+  "description": "",
+  "mcqs": {
+    "description": "",
+    "questions": [
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Measures of central tendency are"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "descriptive statistics that identify the best single value for representing a set of data.",
+            "correct": true,
+            "option_id": "720ba87e-fb7f-44eb-a096-a0c71ce4a0e0"
+          },
+          {
+            "type": "text",
+            "content": "inferential statistics that identify the best single value for representing a set of data.",
+            "correct": false,
+            "option_id": "6a736ba9-0097-4c4b-bcc6-3e605b057ea6"
+          },
+          {
+            "type": "text",
+            "content": "inferential statistics that identify the spread of the scores in a data set.",
+            "correct": false,
+            "option_id": "f89d1c3b-03de-4a3c-9a08-37c6187f6975"
+          },
+          {
+            "type": "text",
+            "content": "descriptive statistics that identify the spread of the scores in a data set.",
+            "correct": false,
+            "option_id": "51483861-2c48-40ac-a150-9d07dbda49fa"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "集中趋势属于描述统计, 用一个代表值概括一组数据的中心位置"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 1",
+            "locator": "mcqs 第 1 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%201.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "第 1 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "193aa0e7-0a1c-43ae-bc7a-61aa03685a34"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Given the following data set, what is the value of the median? [2, 3, 5, 6, 2, 1, 3, 2, 5, 7]"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "2",
+            "correct": false,
+            "option_id": "968b4999-a7a0-4713-bf5c-5c98889f91eb"
+          },
+          {
+            "type": "text",
+            "content": "10",
+            "correct": false,
+            "option_id": "4f020dad-a887-49c9-a70c-0e6918972a5c"
+          },
+          {
+            "type": "text",
+            "content": "3",
+            "correct": true,
+            "option_id": "34780b7b-338d-469e-8145-03a45ef1f573"
+          },
+          {
+            "type": "text",
+            "content": "3.5",
+            "correct": false,
+            "option_id": "116c5792-5dfd-4ddd-a814-2444cde94a8e"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "排序为 1,2,2,2,3,3,5,5,6,7, 中间第 5,6 个数均为 3, 所以中位数为 3"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 1",
+            "locator": "mcqs 第 2 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%201.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "第 2 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "8232ce50-d29f-49fd-b3fc-ab483a5878fe"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Which of the following provides a measure of central location for the random variable of blood type?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "standard deviation",
+            "correct": false,
+            "option_id": "c213d2fc-2095-4a33-9fb2-7c71ceb40e62"
+          },
+          {
+            "type": "text",
+            "content": "mean",
+            "correct": false,
+            "option_id": "8e6f2475-e608-4ec5-ab28-78e52e0251f8"
+          },
+          {
+            "type": "text",
+            "content": "variance",
+            "correct": false,
+            "option_id": "3da4af4c-a26d-4dce-a208-43838404a541"
+          },
+          {
+            "type": "text",
+            "content": "mode",
+            "correct": true,
+            "option_id": "f7d05cbb-8240-49ab-b2d2-07531c0a0b80"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "血型是无序分类变量, 可用出现频率最高的类别即众数表示最常见类型"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 1",
+            "locator": "mcqs 第 3 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%201.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "第 3 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "990bc04b-9024-4539-a195-a016ea8aa47e"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Which of the following is NOT a characteristic of the mean?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "It is unique for a specific dataset.",
+            "correct": false,
+            "option_id": "a3d6f223-e007-43ad-b5a6-01eaa555b021"
+          },
+          {
+            "type": "text",
+            "content": "It is affected by extreme scores.",
+            "correct": false,
+            "option_id": "6ce7fa3b-7561-4c34-98fc-bb9454226003"
+          },
+          {
+            "type": "text",
+            "content": "The sum of the deviations about the mean is 0.",
+            "correct": false,
+            "option_id": "c073732a-1207-4550-9a50-a4bf02f85849"
+          },
+          {
+            "type": "text",
+            "content": "It is best used with categorical data.",
+            "correct": true,
+            "option_id": "b8478dfc-7653-4f48-b632-fe2a78c12f6b"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "均值适用于有意义的数值测量, 对极端值敏感, 且 $\\sum(x_i-\\bar x)=0$, 不宜用于无序分类编码"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 1",
+            "locator": "mcqs 第 4 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%201.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "第 4 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "ba8f548e-72cc-4647-8b6f-b3c3f25f379a"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "The median is"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "the best representation for every set of data.",
+            "correct": false,
+            "option_id": "8d8451f0-f75f-42e6-9e21-cbdd805ab74b"
+          },
+          {
+            "type": "text",
+            "content": "the statistical or arithmetic average.",
+            "correct": false,
+            "option_id": "6db88384-6b8b-458b-a09e-3c653fecfe9e"
+          },
+          {
+            "type": "text",
+            "content": "the most frequently occurring score.",
+            "correct": false,
+            "option_id": "0d5c63b3-a932-4b47-bca0-ff2336c96f02"
+          },
+          {
+            "type": "text",
+            "content": "the value that divides a dataset into two equal halves when the data is arranged in ascending or descending order.",
+            "correct": true,
+            "option_id": "0ede0d5a-88eb-4d53-9422-026cbd87eae8"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "先将数据排序, 中位数将有序观测划分为数量相等的两部分; 偶数个观测通常取中间两值的均值"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 1",
+            "locator": "mcqs 第 5 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%201.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "第 5 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "689f5a8d-c399-4fdc-ac7d-43fca4a1bde9"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Which of the following is true regarding factors affecting variability?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "The independent variable should not affect variability.",
+            "correct": false,
+            "option_id": "f2928779-00c1-4d0e-a9a3-80bdef69bbc2"
+          },
+          {
+            "type": "text",
+            "content": "Greater variability is found in smaller samples.",
+            "correct": false,
+            "option_id": "f894490b-d304-4925-b5a0-1b1fd34bbc99"
+          },
+          {
+            "type": "text",
+            "content": "An insensitive dependent measure will produce a lot of variability.",
+            "correct": false,
+            "option_id": "9b98b113-3bc5-4042-bc27-c3d9cca8eddb"
+          },
+          {
+            "type": "text",
+            "content": "Random sampling results in distributions with large amounts of variability.",
+            "correct": false,
+            "option_id": "72fd702e-2d79-4593-8bfa-df1cf416eff3"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "待确认: variability 未说明是原始观测的离散程度还是统计量的抽样波动, 四个表述均不能无条件成立; 小样本均值的标准误 $\\sigma/\\sqrt n$ 较大, 但样本小不意味着数据方差必然更大"
+          }
+        ],
+        "selection_mode": "single",
+        "answer_status": "unavailable",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 1",
+            "locator": "mcqs 第 6 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%201.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "第 6 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "03e0f470-0c29-46a1-8358-7a72361949cd"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Use the following data set to answer this question and the next two questions. What is the value of the mean?"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Value",
+              "Frequency"
+            ],
+            "rows": [
+              [
+                "9",
+                "8"
+              ],
+              [
+                "8",
+                "12"
+              ],
+              [
+                "6",
+                "2"
+              ],
+              [
+                "5",
+                "4"
+              ],
+              [
+                "4",
+                "3"
+              ],
+              [
+                "3",
+                "7"
+              ],
+              [
+                "2",
+                "3"
+              ],
+              [
+                "1",
+                "4"
+              ]
+            ],
+            "align": [
+              "middle",
+              "middle"
+            ]
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "5.65",
+            "correct": true,
+            "option_id": "1ec93bf9-7128-42e1-9b34-814eedf1307f"
+          },
+          {
+            "type": "text",
+            "content": "7",
+            "correct": false,
+            "option_id": "6f2c610e-01c4-4980-8304-264141d7380f"
+          },
+          {
+            "type": "text",
+            "content": "6.34",
+            "correct": false,
+            "option_id": "abbf5253-d748-4854-83bd-19d57de3d0d1"
+          },
+          {
+            "type": "text",
+            "content": "4.75",
+            "correct": false,
+            "option_id": "1288b5ab-28a7-41e0-bc88-7d61d503ae8c"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "频数合计 $n=43$, 加权总和为 243, 所以 $\\bar x=243/43=5.6512$, 选 5.65"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 1",
+            "locator": "mcqs 第 7 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%201.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "第 7 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "5af498d2-9881-4f33-a43b-fbbc5a5d6354"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Using the same data set as in the previous question, what is the median?"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Value",
+              "Frequency"
+            ],
+            "rows": [
+              [
+                "9",
+                "8"
+              ],
+              [
+                "8",
+                "12"
+              ],
+              [
+                "6",
+                "2"
+              ],
+              [
+                "5",
+                "4"
+              ],
+              [
+                "4",
+                "3"
+              ],
+              [
+                "3",
+                "7"
+              ],
+              [
+                "2",
+                "3"
+              ],
+              [
+                "1",
+                "4"
+              ]
+            ],
+            "align": [
+              "left",
+              "left"
+            ]
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "7",
+            "correct": false,
+            "option_id": "acf9b6e5-45bd-4264-81c4-4d690000e7bf"
+          },
+          {
+            "type": "text",
+            "content": "6",
+            "correct": true,
+            "option_id": "d8276584-80a8-4009-9781-4609634ff7ce"
+          },
+          {
+            "type": "text",
+            "content": "6.34",
+            "correct": false,
+            "option_id": "736f3b68-a372-459a-8eb2-50ad87ad75f5"
+          },
+          {
+            "type": "text",
+            "content": "4.75",
+            "correct": false,
+            "option_id": "3c7a4869-d3f7-4015-82ed-09f11866e313"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "沿用上一题的频数表, 共 43 个观测, 第 22 个观测为 6, 故中位数为 6"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 1",
+            "locator": "mcqs 第 8 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%201.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "第 8 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "595258c4-4d4f-4952-9c86-ff89f3c55b86"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "How would you describe this distribution? (Use the same data set as in the previous questions.)"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Value",
+              "Frequency"
+            ],
+            "rows": [
+              [
+                "9",
+                "8"
+              ],
+              [
+                "8",
+                "12"
+              ],
+              [
+                "6",
+                "2"
+              ],
+              [
+                "5",
+                "4"
+              ],
+              [
+                "4",
+                "3"
+              ],
+              [
+                "3",
+                "7"
+              ],
+              [
+                "2",
+                "3"
+              ],
+              [
+                "1",
+                "4"
+              ]
+            ],
+            "align": [
+              "left",
+              "left"
+            ]
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "negatively skewed",
+            "correct": true,
+            "option_id": "55198ae2-7087-40de-a065-7e941e6d5ae1"
+          },
+          {
+            "type": "text",
+            "content": "rectangular",
+            "correct": false,
+            "option_id": "2e9c3f69-a197-4dbf-a2c3-64c259c65d29"
+          },
+          {
+            "type": "text",
+            "content": "approximately normal",
+            "correct": false,
+            "option_id": "30219073-2cd0-4411-b030-76b8c3bcd875"
+          },
+          {
+            "type": "text",
+            "content": "positively skewed",
+            "correct": false,
+            "option_id": "f595d335-69bf-46b5-8bf7-58d7942d5f50"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "沿用同一频数表, 数据较多集中在高值端, 低值方向尾部较长, 均值 5.6512 小于中位数 6, 三阶中心矩为负, 属负偏分布"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 1",
+            "locator": "mcqs 第 9 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%201.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "第 9 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "5d31b6e0-7a25-4fac-ae58-32785231692b"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "The median is a measure of"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "relative dispersion",
+            "correct": false,
+            "option_id": "499b7905-ea40-416b-9ea2-db21952dd9bc"
+          },
+          {
+            "type": "text",
+            "content": "relative location",
+            "correct": false,
+            "option_id": "e45fb8e3-e15f-4205-8327-ef01b3de4ff2"
+          },
+          {
+            "type": "text",
+            "content": "absolute dispersion",
+            "correct": false,
+            "option_id": "f78b0ab0-c96b-4d6d-8c79-6364322e83be"
+          },
+          {
+            "type": "text",
+            "content": "central location",
+            "correct": true,
+            "option_id": "15cd83d6-009a-4969-8f74-dc593be1cb4f"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "中位数描述数据的中心位置, 不描述离散程度"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 1",
+            "locator": "mcqs 第 10 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%201.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "第 10 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "423e5778-3028-4b14-b0de-2e823b598f09"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "The difference between the largest and the smallest data values is the"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "variance",
+            "correct": false,
+            "option_id": "4e6f0e47-2180-419b-9397-8700686b6c2d"
+          },
+          {
+            "type": "text",
+            "content": "coefficient of variation",
+            "correct": false,
+            "option_id": "3af98eb8-0df5-41e8-8685-6d332314090f"
+          },
+          {
+            "type": "text",
+            "content": "interquartile range",
+            "correct": false,
+            "option_id": "56245077-fc16-4592-a983-2d577789f872"
+          },
+          {
+            "type": "text",
+            "content": "range",
+            "correct": true,
+            "option_id": "796327c2-9b71-4636-9b79-2e3e5e31058a"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "极差定义为最大值减最小值, 即 $R=x_{\\max}-x_{\\min}$"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 1",
+            "locator": "mcqs 第 11 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%201.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "第 11 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "97da04fa-b31c-404c-b6fa-e593480bae54"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Which of the following provides a measure of central location for the categorical data?"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "standard deviation",
+            "correct": false,
+            "option_id": "961aa6b3-a7ba-4b99-bfe8-1a258576004d"
+          },
+          {
+            "type": "text",
+            "content": "median",
+            "correct": false,
+            "option_id": "98d19c93-e50b-4b27-91f0-6339c0d1f539"
+          },
+          {
+            "type": "text",
+            "content": "mean",
+            "correct": false,
+            "option_id": "0a89a77c-075e-4a59-9637-d702f103801f"
+          },
+          {
+            "type": "text",
+            "content": "mode",
+            "correct": true,
+            "option_id": "6bcc5dfd-a7bd-4056-be47-5541318fc5e6"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "众数适用于分类数据, 表示频数最高的类别; 中位数要求类别至少具有顺序"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 1",
+            "locator": "mcqs 第 12 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%201.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "第 12 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "49468f01-b277-4c22-8ae4-2999da282d11"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Please find the 15% percentile of the following data: 19,21,25,24,25,22,24,21,20,20,21,24,26,21,27,23,21,22,20,22"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "21.5",
+            "correct": false,
+            "option_id": "23a4bf9d-d623-45f5-950f-d20a0c4b98ef"
+          },
+          {
+            "type": "text",
+            "content": "20",
+            "correct": true,
+            "option_id": "25fc8637-eb04-4bda-b352-b020f0d441b6"
+          },
+          {
+            "type": "text",
+            "content": "21",
+            "correct": false,
+            "option_id": "ff1dd684-2392-49ca-929c-7afc3ddaaccb"
+          },
+          {
+            "type": "text",
+            "content": "20.5",
+            "correct": false,
+            "option_id": "8e2b5f98-b2e7-4ff5-bdda-a6c9474f01ff"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "排序后第 2,3,4 个值均为 20, 常用百分位数计算方法在 15% 位置均得到 20"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 1",
+            "locator": "mcqs 第 13 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%201.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "第 13 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "a8965013-4015-4913-a033-3e93d57f66ed"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Please find the median of the following data: 19,21,25,24,25,22,24,21,20,20,21,24,26,21,27,23,21,22,20,22"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "22",
+            "correct": true,
+            "option_id": "17c20512-b26a-4698-a930-cc7669a01055"
+          },
+          {
+            "type": "text",
+            "content": "20",
+            "correct": false,
+            "option_id": "1bc8f624-07c0-4a71-8512-04bfd36534d7"
+          },
+          {
+            "type": "text",
+            "content": "21",
+            "correct": false,
+            "option_id": "60a4d237-4887-41c0-81bd-90c4e34cf7e5"
+          },
+          {
+            "type": "text",
+            "content": "20.5",
+            "correct": false,
+            "option_id": "8eae868d-1819-4b41-b693-ee869e48621c"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "共 20 个数据, 排序后第 10,11 个值均为 22, 中位数为 22"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 1",
+            "locator": "mcqs 第 14 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%201.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "第 14 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "78cd3a98-c647-42b5-8197-0096154a4482"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Please find the SD of the following data (sample SD): 19,21,25,24,25,22,24,21,20,20,21,24,26,21,27,23,21,22,20,22"
+          }
+        ],
+        "options": [
+          {
+            "type": "text",
+            "content": "2.34",
+            "correct": false,
+            "option_id": "d4146327-de3d-4e22-9210-f0621a32032a"
+          },
+          {
+            "type": "text",
+            "content": "2.23",
+            "correct": true,
+            "option_id": "c8221ae5-9f10-48e4-88f3-9e21c6061fe0"
+          },
+          {
+            "type": "text",
+            "content": "3.23",
+            "correct": false,
+            "option_id": "b349b550-cbd3-4d4a-b348-9b2a20ebf240"
+          },
+          {
+            "type": "text",
+            "content": "3.32",
+            "correct": false,
+            "option_id": "6af20233-408a-4c54-a2ef-33a00c4b9704"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "$\\bar x=22.4$, $\\sum(x_i-\\bar x)^2=94.8$, 样本标准差 $s=\\sqrt{94.8/19}=2.2337$, 选 2.23"
+          }
+        ],
+        "selection_mode": "single",
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 1",
+            "locator": "mcqs 第 15 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%201.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 1",
+            "locator": "第 15 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "56069b61-7d61-4599-84b9-92fbaa2d39b7"
+      }
+    ]
+  }
+}

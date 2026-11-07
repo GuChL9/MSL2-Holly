@@ -1,0 +1,203 @@
+{
+  "title": "2025秋小测4",
+  "author": [
+    "原资料贡献者, 题库整理者"
+  ],
+  "description": "",
+  "problems": {
+    "description": "",
+    "questions": [
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "A study was conducted to investigate the effect of a new medication on systolic blood pressure. Blood pressure was measured for 8 patients before and after taking the medication:"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Participant",
+              "Pre-Treatment BP (mmHg)",
+              "Post-Treatment BP (mmHg)"
+            ],
+            "rows": [
+              [
+                "1",
+                "140",
+                "130"
+              ],
+              [
+                "2",
+                "150",
+                "142"
+              ],
+              [
+                "3",
+                "135",
+                "128"
+              ],
+              [
+                "4",
+                "160",
+                "152"
+              ],
+              [
+                "5",
+                "145",
+                "138"
+              ],
+              [
+                "6",
+                "155",
+                "148"
+              ],
+              [
+                "7",
+                "148",
+                "142"
+              ],
+              [
+                "8",
+                "142",
+                "135"
+              ]
+            ],
+            "align": [
+              "left",
+              "right",
+              "right"
+            ]
+          },
+          {
+            "type": "text",
+            "content": "Please determine if the medication has a significant effect on reducing blood pressure at alpha = 0.05."
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "令 $d=\\mathrm{Pre}-\\mathrm{Post}$, $H_0:\\mu_d=0$, $H_1:\\mu_d>0$. 差值为 10,8,7,8,7,7,6,7, $\\bar d=7.5$, $s_d=1.1952$, $SE=0.4226$, $t=17.7482$, $df=7$. 单侧临界值 $t_{0.95,7}=1.8946$, 拒绝 $H_0$, 数据支持平均收缩压降低"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "题目问 reducing, 使用预先指定的单侧配对 t 检验; 若课程要求双侧检验, 临界值为 2.3646, 结论相同. 检验假设为差值近似正态且受试者独立, 该前后比较本身不足以单独排除时间等混杂因素"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 4",
+            "locator": "flashcards 第 1 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%204.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 4",
+            "locator": "第 1 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "01a67194-bb7a-4159-8869-d40a678126f8"
+      },
+      {
+        "question": [
+          {
+            "type": "text",
+            "content": "Suppose you want to test whether smoking status is associated with lung disease in a sample of 200 individuals."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "",
+              "Lung Disease",
+              "No Disease",
+              "Total"
+            ],
+            "rows": [
+              [
+                "Smoker",
+                "60",
+                "40",
+                "100"
+              ],
+              [
+                "Non-smoker",
+                "30",
+                "70",
+                "100"
+              ],
+              [
+                "Total",
+                "90",
+                "110",
+                "200"
+              ]
+            ],
+            "align": [
+              "left",
+              "right",
+              "right",
+              "right"
+            ]
+          },
+          {
+            "type": "text",
+            "content": "Please fill the following table with expected frequencies and perform a Chi-square test at alpha = 0.05 (keep two decimals during your calculation)."
+          },
+          {
+            "type": "table",
+            "headers": [
+              "",
+              "Lung Disease",
+              "No Disease"
+            ],
+            "rows": [
+              [
+                "Smoker",
+                "",
+                ""
+              ],
+              [
+                "Non-smoker",
+                "",
+                ""
+              ]
+            ],
+            "align": [
+              "left",
+              "left",
+              "left"
+            ]
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "期望频数为 $\\begin{pmatrix}45.00&55.00\\\\45.00&55.00\\end{pmatrix}$. $H_0$: 吸烟状态与肺病独立. Pearson $\\chi^2=18.1818$, $df=1$, $p\\approx0.0000201$, 大于 5% 临界值 3.8415, 拒绝 $H_0$, 两变量存在统计关联"
+          }
+        ],
+        "explanation": [
+          {
+            "type": "text",
+            "content": "$E_{ij}=R_iC_j/N$, $\\chi^2=\\sum(O-E)^2/E$, 此处为未作 Yates 连续性校正的 Pearson 检验, 四格期望频数均大于 5"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Yangshu - 2025-2026秋小测卷 4",
+            "locator": "flashcards 第 2 题",
+            "url": "https://github.com/YangShu233-Snow/ZJUBMS-Ginkgo/blob/77e8b155507493b043eb3dadb3f17a22dc1020fe/%E5%8C%BB%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB%20II/2025-2026%E7%A7%8B%E5%B0%8F%E6%B5%8B%E5%8D%B7%204.json"
+          },
+          {
+            "title": "BMS Database 本地资料 - 2025-2026 学年秋学期（23级）医学科学素养Ⅱ练习与小测 / 小测 4",
+            "locator": "第 2 题",
+            "url": "https://bms-zju.github.io/BMS_Database/courses/medical-science-literacy-2/quizzes/2025-2026-quizzes/",
+            "note": "同源原卷, 与Yangshu题目合并; 2026-11-07本地快照"
+          }
+        ],
+        "question_id": "34b3c280-35bc-4c54-b6b7-09b25f600d21"
+      }
+    ]
+  }
+}
